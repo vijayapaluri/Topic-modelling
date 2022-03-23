@@ -1,0 +1,2211 @@
+start_timestamp,end_timestamp,text
+00:00:04,00:00:08, So it is a try and look at what all things we have been done.
+00:00:11,00:00:22," So as part of our journey we learned that we have to follow Chris DM or the latest one is Chris and mal que methodology, let me write crisper and Q amp D."
+00:00:24,00:00:29, And as part of this process management methodology six phases or six steps are there.
+00:00:31,00:00:34, And the first one is business and data understand that.
+00:00:36,00:00:40, This is more about gathering requirements and doing the planning.
+00:00:42,00:00:43, So here we have.
+00:00:45,00:00:45, planning.
+00:00:47,00:00:49, Gathering planning and researching this.
+00:00:50,00:00:55," posters, we learned about data pre processing."
+00:00:59,00:01:09," This is where we try to clean the data modify the data, if required, so we are we're basically doing a lot of manipulation syrup with respect to the data that we get and had."
+00:01:11,00:01:14, This is the most time consuming step.
+00:01:15,00:01:15, That.
+00:01:17,00:01:19, time consuming step.
+00:01:21,00:01:22, After data processing.
+00:01:24,00:01:27, We come to data mining steps.
+00:01:28,00:01:32, And this is where we are actually currently working with operating.
+00:01:33,00:01:37," Under data mining, we learned that there are unsupervised learning."
+00:01:41,00:01:44, Here we are not trying to do predict right.
+00:01:46,00:01:51," There is nothing like predicting any specific variable, so we will say bye is not known."
+00:01:52,00:01:53, This is not.
+00:01:55,00:02:04," So if I don't have labeled the data, then, are not be trying to work for that labeled data right, it is all about identifying the hidden pattern, the date."
+00:02:06,00:02:08, And then we can do supervised.
+00:02:11,00:02:20," But before I talk about supervised learning, we also analyze that whenever we get the data we start with you need a period analysis."
+00:02:21,00:02:32," In order to understand the data and understand the details matter we try to look at uni variance analysis one variable at a time, and we do add on top of that, and by visualization."
+00:02:33,00:02:35, graphical representations.
+00:02:36,00:02:39, Post this we go to by various visualization.
+00:02:41,00:02:46," This is where we talked about two variables, taken together, will try to visualize it using scattered back."
+00:02:47,00:02:49, or try to identify the Cross table.
+00:02:51,00:02:55, Right confusion matrix kind of a thing we will get a pivot table.
+00:02:57,00:03:00, Then we have multivariate analysis.
+00:03:03,00:03:06, So while while we were doing these things.
+00:03:07,00:03:17," That we learned about various techniques, for example, all the unsupervised learning techniques are basically the techniques for doing the analysis in multi variable case."
+00:03:20,00:03:30, So clustering dimension deductions and all those concepts that we discussed association rules for all of them are for falling under you need a nexus.
+00:03:32,00:03:33, Post this.
+00:03:35,00:03:50," Right post, the analysis, we will also want to identify or predict the results and that's where we basically talked about supervised learning, and here we are saying label to data is there, so that is why he is known."
+00:03:52,00:03:57," Because I know what is the result, try to establish the relationship between the existing factors and."
+00:03:59,00:03:59, Dubai.
+00:04:03,00:04:05, Right now under this scenario.
+00:04:07,00:04:10," If I have to predict why, which is numeric."
+00:04:12,00:04:18," Then we apply something called as regression techniques, and this is what we have to start learning."
+00:04:19,00:04:21, If I is non human.
+00:04:25,00:04:30, If I is non numeric then we look into classification.
+00:04:33,00:04:39, Classification techniques to a numeric non numeric regression or classification.
+00:04:41,00:04:44," Under classification techniques, we learned about."
+00:04:45,00:05:00," knife based technique which runs on probability based concepts conditional probability, then we looked at K N, which stands on the distance logic nearest neighbor and then we discussed about decision to this."
+00:05:02,00:05:05, This is a rules based concepts.
+00:05:06,00:05:08, We also talked about.
+00:05:09,00:05:13, The complex models of n simple techniques.
+00:05:16,00:05:24," That we looked at and several techniques, this is nothing but a combination of multiple models and in and sample techniques."
+00:05:25,00:05:28," In and simple techniques, we looked at."
+00:05:29,00:05:31, four different variations.
+00:05:32,00:05:33, Voting.
+00:05:34,00:05:35, stacking.
+00:05:38,00:05:39, three models bagging.
+00:05:41,00:05:43," And finally, we had boosted."
+00:05:44,00:05:49, Voting and starting can be non three more based models as well.
+00:05:50,00:05:51," Sir, sir."
+00:05:52,00:06:04, yeah so even like I was like looking at the fedex data set so like you know we were asked to give you know evaluate or use the data set on different models and like.
+00:06:04,00:06:20," Tell like whichever model is having the highest accuracy like we can deploy that model so yeah like we can like use separately can and knife base and all or we can do, stalking as well, no so like if you're just stalking obviously the accuracy will be much more than the individual."
+00:06:20,00:06:21," No, no, no, no, no, no, no."
+00:06:21,00:06:24, How can you say that stacking will improve the molecules.
+00:06:25,00:06:32," Logically, should be but let's say if I have model, one model to model three."
+00:06:33,00:06:34,three models are there.
+00:06:35,00:06:37, Which are individually predicting on your fedex.
+00:06:39,00:06:40, OK OK.
+00:06:41,00:06:46," So this will give me reserved one, this will give me reserve to this is giving me reserve."
+00:06:49,00:06:54," Now, what we are trying to find out is the value of our variable of our interest correct."
+00:06:54,00:06:55," Yes, so as you."
+00:06:56,00:07:02," This model, one is giving very good result that is a very good, it is very close to the actual data."
+00:07:03,00:07:10," Okay, but these two are not so good they're deviating from the original."
+00:07:11,00:07:16," Okay, now, when you apply Meta modern final model."
+00:07:18,00:07:21, they're basically taking these as inputs and trying to predict why.
+00:07:23,00:07:23, The final result.
+00:07:24,00:07:25, Okay.
+00:07:26,00:07:38," But because these two results are two and three are very, very deviating from the original data when you do average this good result will also be pulled away."
+00:07:39,00:07:41," Yes, yes okay so."
+00:07:41,00:07:43, This challenge will always be there when you're doing.
+00:07:44,00:07:51, your thoughts are on that that is the reason why we evaluate individual models also.
+00:07:53,00:07:53, Okay.
+00:07:53,00:07:57, And then we compare it with a final assemble model.
+00:07:59,00:08:04," So what if we need to do the individual products check individually and again to stalking also and then, once again verified."
+00:08:05,00:08:05,Yes.
+00:08:07,00:08:07, i've seen.
+00:08:08,00:08:21, And like so it's like the problem statement is like are not correctly precisely what do you want is not like correctly given so it's like can we do like our own stuff like we can also have network analytics right because it's like source.
+00:08:21,00:08:22, In this.
+00:08:22,00:08:23," nation is there, so we can do that."
+00:08:24,00:08:24,We can.
+00:08:25,00:08:26, yeah he's a logic.
+00:08:26,00:08:34, The logic of fedex data set right given as a project is for you people to do many things.
+00:08:35,00:08:39, So many things you have to also do business understanding.
+00:08:39,00:08:40, Yes.
+00:08:40,00:08:50," misunderstanding So yes, so i've created a separate document so it's like i've written the what they call the objective like minimize maximize constraint, then prepare the data dictionary."
+00:08:52,00:09:03," Then, after that it's like like I thought i'd write, like every pre processing steps like why i'm doing it in the document so that it is clear, like every like data mining and also have just prepare that document."
+00:09:04,00:09:06," says Oh, I thought i'll go through it."
+00:09:07,00:09:08, yeah see.
+00:09:08,00:09:12," There is no standard logic, I mean I need, but as a data scientist."
+00:09:13,00:09:27," You have free will basically in any organization as a data scientist, if you are hired right, you have a free will to look into all the aspects of the business and identify into the areas where there is a problem."
+00:09:27,00:09:32," Okay, so it's like yes so."
+00:09:33,00:09:34, look good good.
+00:09:34,00:09:46," is essentially a good objective so, is it sufficient if we can just try to minimize and maximise like what do you want to minimize and what do you want to maximize because you said, like octave optimize terminology should be there should be like very short."
+00:09:47,00:09:53," Okay, it is, it is see it is not mandatory, that you have to have them, it is recommended that you need to."
+00:09:54,00:09:59," Okay, but it's like we don't have to give elaborate view of the objective right it's just that was."
+00:09:59,00:10:05, Not an objective is short crisp and optimization terminologies are recommended.
+00:10:05,00:10:10," Okay right, you might also want to explain what exactly you're trying to achieve."
+00:10:11,00:10:14," Okay, does this right a statement for."
+00:10:14,00:10:17, evaluator as a viewer if I see that statement.
+00:10:17,00:10:20, I may not be able to understand what what you're trying to do.
+00:10:20,00:10:22, Because I have not researched on the data right.
+00:10:23,00:10:23," Yes, you."
+00:10:23,00:10:25, have to give an explanation also so.
+00:10:25,00:10:27, That it is clear for the person who's reading.
+00:10:28,00:10:38," Okay, so what exactly i'm doing on the data like beat anything that work at analytics or you know distance and delay relation whatever we're planning to do, I can just put it in that document."
+00:10:39,00:10:40, So just explain.
+00:10:41,00:10:43," Yes, yes, yes intimately you have to."
+00:10:44,00:10:47, give some insights to the business or the management.
+00:10:47,00:10:50," Okay, they can do better was."
+00:10:51,00:10:56," Okay last thing can be done dimension reduction can be done, like you said network analytics can be done."
+00:10:56,00:11:00," Yes, right and then classification models are there."
+00:11:00,00:11:01," Yes, okay."
+00:11:02,00:11:04, Okay okay so okay so.
+00:11:07,00:11:14," Okay, so we're talking about this classification models and here we have voting stacking bagging and staying."
+00:11:16,00:11:19, right here under bagging again we discussed about.
+00:11:22,00:11:23, Something.
+00:11:24,00:11:26," Which is very, very."
+00:11:28,00:11:31, efficient way to build things which is random forest.
+00:11:33,00:11:37," The difference here is, we will take a sample data which is."
+00:11:38,00:11:46," smiling bike capital m, this is your sample data for batty but for random forest, we will take subset of features as."
+00:11:48,00:11:49, Good that's the difference.
+00:11:52,00:11:55," Okay bad, there are no for us, this one variant of."
+00:11:56,00:11:58, Then we'll talk about boosting.
+00:12:00,00:12:01, Under boosting we have.
+00:12:03,00:12:04, Added boosting.
+00:12:06,00:12:15, Then gradient descent and gradient boosting and then we have extreme gradient boosting and these models.
+00:12:16,00:12:20, That try to minimize the error.
+00:12:21,00:12:25, By taking the models sequences by training the model sequence.
+00:12:26,00:12:31, Here we take multiple sub samples and do training parallel.
+00:12:32,00:12:36, that's the difference between boosting and bagging techniques.
+00:12:39,00:12:41, So this is what we discussed Taylor.
+00:12:43,00:12:44," Now, if I talk about."
+00:12:45,00:12:48, Right being numeric piece.
+00:12:49,00:12:51," Okay, why is numeric."
+00:12:54,00:12:55, If this is the case.
+00:12:57,00:12:57, Then.
+00:12:59,00:13:02, We will try to go with something called as regression.
+00:13:04,00:13:11," But before I go ahead and deal with regression models, you need to try and understand certain things that that we discussed in the initials."
+00:13:15,00:13:17, So when I say why numeric.
+00:13:19,00:13:30," Why can be continuous or discrete okay numeric data can be continuous our district, we will now stick to the continuous case okay."
+00:13:35,00:13:36, If I is continuous.
+00:13:38,00:13:41, Then there are certain properties you remember this properties.
+00:13:44,00:13:53," Yes, so I think it is mobility should be equal to zero always range will be like between minus infinity plus infinity."
+00:13:55,00:13:59, And I think he area undercover will be equal to one and.
+00:14:01,00:14:02,Something.
+00:14:05,00:14:06, yeah this is.
+00:14:06,00:14:09, This mean mean median and mode or equal.
+00:14:10,00:14:11, know that is when you have submitted the curves and.
+00:14:12,00:14:14, All that that is normal distribution okay.
+00:14:14,00:14:16, we're only talking about continuous case.
+00:14:17,00:14:18, Okay okay So yes.
+00:14:18,00:14:22," Okay, of course, normal distribution and all that are our."
+00:14:23,00:14:24, Next steps.
+00:14:26,00:14:32," Okay, so if I have output variable y which is continuous in nature."
+00:14:33,00:14:46," Then, these are the important properties that we have to remember minus infinity plus infinity probability of identifying any single number is always being equal, to zero and area under the curve is always equal to one."
+00:14:47,00:14:48, click now.
+00:14:52,00:14:57," let's say, am I asking you to predict something when something."
+00:14:59,00:15:02," Okay, for example, months."
+00:15:03,00:15:10, In the classification scenario we identified whether the student will pass or.
+00:15:11,00:15:11, fail.
+00:15:13,00:15:20," Okay, good I didn't define whether the student will be passing or failing, so this is non numeric it."
+00:15:23,00:15:25, will apply classification model.
+00:15:26,00:15:32, But here we are talking about identifying the exact marks which is numerical.
+00:15:34,00:15:38," Now, if you apply a model and try to predict that so you're predicting okay whenever."
+00:15:40,00:15:48, you're saying for a student the marks will be let's say 85% that the student is getting 85% marks.
+00:15:50,00:15:51, If this is the case.
+00:15:54,00:15:54, Right.
+00:15:57,00:15:58, I mean if you're predicting.
+00:15:59,00:16:03, What is the chance that the student is actually getting a defect marks.
+00:16:06,00:16:07,yeah.
+00:16:14,00:16:17, What is the chance that the student is actually getting 85%.
+00:16:23,00:16:23, anyway.
+00:16:27,00:16:30, let's say i'm predicting the marks for you.
+00:16:31,00:16:35," i'm saying that you will get a difference, what is the chance that you will actually getting a difference."
+00:16:38,00:16:45, If you don't know the student and probably percentage is anything out of hundred right so 285 is only a one number.
+00:16:48,00:16:55," If you are taking in terms of decimal points like 85 point, probably to be one by infinity which is like we cannot predict zero but."
+00:16:57,00:16:59, If you are considering it as though yes.
+00:16:59,00:17:02, We are talking about marks which is.
+00:17:02,00:17:04," Continuous, then it is zero so."
+00:17:04,00:17:14," Exactly, then it is you know, the chances zero, then why the hell i'm doing prediction if I know that the student is not going to get 85%."
+00:17:16,00:17:19, That means whatever i'm predicting is wrong isn't it.
+00:17:21,00:17:30," These are the properties right for continuous data, these are the properties and and trying to predict the value, which is continue as and we are saying that the chance of the value zero."
+00:17:32,00:17:34, Then the prediction.
+00:17:34,00:17:44," If you have historical data in the historical data like we can see that the student has like previously got like a lot of 85% ages, then we can try it in that way."
+00:17:45,00:17:46, But we are dealing with.
+00:17:46,00:17:48, population data here we're not dealing with.
+00:17:48,00:17:55," subset of data if it is a subset of data, then it becomes discrete, it is not continuous anymore, yes."
+00:17:56,00:18:08," There are fixed values right So if you have hundred samples and hundred records that means you know exactly what is the value, so it becomes discrete if discrete there is no problem, we can do the right prediction classification models have been taught."
+00:18:11,00:18:12," That understanding, where i'm going here."
+00:18:13,00:18:13," Yes, yes."
+00:18:15,00:18:17, So for a continuous data.
+00:18:18,00:18:20, How can I predict a single number.
+00:18:21,00:18:32," Right, because we are seeing the probability of a single number exit identify a single number on this infinity scale is zero."
+00:18:34,00:18:44," So how do I deal with it the continuous Dudes that that is all about this logic that were trying to understand, yet scholars confidence interval."
+00:18:45,00:19:02," So, to start with continuous data, these are the three important properties that we discussed right area is equal to one property of a single number is equal to zero, and the range lies from minus infinity plus infinity if I extend this that Okay, these are."
+00:19:04,00:19:05, The data is actually normal.
+00:19:06,00:19:06, I mean.
+00:19:07,00:19:14, they're not assuming that there is any abnormalities then it also has these two properties mean median equal to more.
+00:19:15,00:19:23, And then area is symmetric the curve asymmetric right and we also discuss normal distribution properties.
+00:19:25,00:19:30, Where the characterization of the bell shaped is done using these two.
+00:19:31,00:19:34," Right values, new and Sigma first moment and second."
+00:19:38,00:19:40, And we've also discussed about standardization.
+00:19:43,00:19:51, X minus meal by Sigma This is basically trying to transform the X values to the values.
+00:19:52,00:19:55, That we have we're moving the experiments to see by.
+00:19:56,00:19:57, Training.
+00:19:59,00:20:04," So these are all things that we have discussed, and of course we've also said that the."
+00:20:06,00:20:09, compassion right any data which is.
+00:20:10,00:20:14, Continuous has to be assumed that it is normal.
+00:20:16,00:20:20, But is it actually normal is verified using normal qq plot.
+00:20:22,00:20:32, Right and the Z values and the sample data should have identical distribution similar distribution.
+00:20:33,00:20:34, If you do that.
+00:20:36,00:20:39, You get a straight line and straight line basically means.
+00:20:41,00:20:43, That the days normally is to be dead.
+00:20:45,00:20:46, These are all things we discussed right.
+00:20:48,00:20:48," Okay, remember."
+00:20:53,00:20:54, Okay know.
+00:20:55,00:21:06," Why, we are learning all these things, let us try and do a small example of doing prediction first how this prediction book right, so let us do the prediction."
+00:21:08,00:21:12, Then we will see the application of that right prediction calculations into another exam.
+00:21:15,00:21:18," So here, I want to take a small data set."
+00:21:23,00:21:27," Okay, this is the data set so we are looking at the gmat score."
+00:21:29,00:21:30, Okay.
+00:21:30,00:21:31, So one note.
+00:21:32,00:21:33, Here good good good.
+00:21:34,00:21:46," Actually, like therapy on the continuous data you're predicting students marks that the probability of your student getting 85% would be zero like if we have continuous data."
+00:21:47,00:22:01," And if we have, like previous historical data like not particularly about the student but till now, some population data like based on the attributes like new record similarity with the old records, we can get the actual day like we can predict the percentage rate."
+00:22:02,00:22:04, So that is similarity read it is not prediction.
+00:22:06,00:22:14," Okay, like normal machine learning algorithms for a supervised learning like that is what we have done by numeric."
+00:22:16,00:22:17," numeric data, we are not seeing."
+00:22:18,00:22:20, The regression regression models.
+00:22:20,00:22:23," that's what we are going, we have not done that regression model yet."
+00:22:23,00:22:23,Oh.
+00:22:25,00:22:29, This world on let's let's discuss this here you got to know oh.
+00:22:30,00:22:30, yeah.
+00:22:30,00:22:32, So let me load the data set.
+00:22:32,00:22:32,here.
+00:22:34,00:22:40," i'm talking about this specific gmat score state Okay, let me do histogram."
+00:22:46,00:22:49," yeah G man, this is the is to go."
+00:22:52,00:22:53, Which is histogram.
+00:22:55,00:23:00, And the curve is basically left skewed.
+00:23:01,00:23:02, Okay.
+00:23:03,00:23:03, Now.
+00:23:05,00:23:06, Given this case.
+00:23:08,00:23:08, Right.
+00:23:09,00:23:11," Remember, whatever data, we are working is always."
+00:23:16,00:23:18, Given this sample data.
+00:23:19,00:23:24, Can I make some strategies and applied for the university for admissions.
+00:23:26,00:23:32," And we've already discussed that because of the ship, we can conclude that the students right is left skewed us."
+00:23:32,00:23:45," Because of the shape or left skewed behavior, we can clearly say that the examination was fairly easy to see, and that is the reason why we have not have basically people scoring high marks."
+00:23:47,00:23:47,Okay.
+00:23:49,00:23:49, Now.
+00:23:51,00:23:53, Given this case let's say.
+00:23:54,00:23:57, You want to come up with strategies for admission.
+00:24:00,00:24:02, Get students admission this year.
+00:24:04,00:24:05, Right.
+00:24:07,00:24:13, So each university will have their own strategies for admission right.
+00:24:14,00:24:21," Given this data, what What would you basically come up with what is the plan that you will come up for."
+00:24:24,00:24:24, Getting the.
+00:24:26,00:24:27, I should say.
+00:24:29,00:24:32," The admission strategy right, what does the education strategy that."
+00:24:39,00:24:42," yeah guess what what strategies, would you want to."
+00:24:49,00:25:04," We can say is the exams over then make it, we can set the cutoff like depending on the market, which we can see my histogram like the peak like where it is a number of candidates, we we want to take for the university, we can set a cut off."
+00:25:06,00:25:16," Very good, very good lifted another seats weekend and you have to basically free them up, and there are 773 students who have."
+00:25:19,00:25:20, students who have.
+00:25:22,00:25:25," Written the exam sample data, this is sample data we have."
+00:25:27,00:25:30," Okay, and we also looked into."
+00:25:31,00:25:41," What is the minimum, what is the maximum maximum is seven at memon minimal mistakes and you can see that in the X axis good."
+00:25:43,00:25:44," Okay, so admission."
+00:25:45,00:25:54," Then you have certain serendipity students minimum maximum we have mean, and we also have standard deviation as well."
+00:25:57,00:26:01, It means is 711 standard deviation is 20.
+00:26:02,00:26:05," So, because I know the data we are coming up with all these PICs."
+00:26:09,00:26:09, Right now.
+00:26:14,00:26:23," If I have to let's say this is one of the universities that you are working as a team, you have to come up with the strategies, then that university will have some standard."
+00:26:24,00:26:34," So you not ella every student who has written the exam Center is a qualification well, so all those people qualified for higher education so are there."
+00:26:35,00:26:36, Right.
+00:26:38,00:26:44, As a university right you don't want everyone to enter into your you could have cut off.
+00:26:46,00:26:48, Another question is what will be the cutoff.
+00:26:56,00:26:58, get what will be the backup.
+00:26:59,00:26:59, How much.
+00:27:00,00:27:01,You put us kind of.
+00:27:05,00:27:09," Or maybe depending on the top Marco thing by students, like some."
+00:27:10,00:27:13, Top 10% or 90% of the students will be alone and.
+00:27:14,00:27:17, have to be very specific top 10 or 20.
+00:27:17,00:27:17,yeah.
+00:27:20,00:27:25," it's not there, then we can like see like based on the ranking like the top hundred."
+00:27:26,00:27:28," Exactly Okay, this is only sample data."
+00:27:30,00:27:30, Okay.
+00:27:32,00:27:33, You have to generalize district.
+00:27:45,00:27:47, Okay top 10 top 20 that is good.
+00:27:48,00:27:49, That strategy is good.
+00:27:51,00:27:51, let's do that.
+00:27:53,00:28:10," So, in order to decide see again, we are trying to be specific, with respect to the idea, not with respect to the values right optimization techniques basically talk about the idea being optimized and the best result can be captured."
+00:28:11,00:28:17," result will not be fixed it will change, based on the factors that we are considered okay."
+00:28:18,00:28:20, So if I say cut off.
+00:28:22,00:28:22, Okay.
+00:28:23,00:28:23, Then.
+00:28:25,00:28:28, What should be the ideal cutoff for this year.
+00:28:31,00:28:37," Right, because the data is from the CSM and the the sample data that we're looking at is for the CSM."
+00:28:39,00:28:40, So if I see.
+00:28:44,00:28:48, 625 is the cutoff then is this going to be a good quarter.
+00:28:49,00:28:55, Because cut off means we are trying to filter out those poorly performed students.
+00:28:57,00:29:05," right and as a university, you might have 625 or you might also have six at as your standard."
+00:29:06,00:29:07, So seats at.
+00:29:08,00:29:08, This no.
+00:29:08,00:29:09, No it's not.
+00:29:10,00:29:15," A very good cut off no Sir, because there are a lot of students who are have done very well."
+00:29:16,00:29:20, And like if the universities are top grade university then.
+00:29:21,00:29:24, The cutoff should be like probability probably higher.
+00:29:24,00:29:29, let's say this is the university which isn't top 10 top 10 books okay.
+00:29:31,00:29:32, i'm impressed us.
+00:29:33,00:29:34," Okay, should we."
+00:29:34,00:29:39," should be higher, because many students have done and."
+00:29:39,00:29:44," The question is, if you're putting six APS, the mind."
+00:29:45,00:29:51," Then, what is the percentage of the students who are getting eliminated marks."
+00:29:51,00:29:53, Fine you're seeing from 600.
+00:29:53,00:30:07," To seven ad, this is the range and you're seeing success, it should be the cut of that means anyone who scored greater than six he will be qualified anything, who has less is disqualified very good, but how many people you are going to filter out."
+00:30:10,00:30:15, hey What if your graph is like this if you say six at.
+00:30:16,00:30:18, don't you eliminate a lot of people.
+00:30:21,00:30:23," The 6600, and this is 785."
+00:30:24,00:30:39," Difficult examination, so in that key is a lot of students who scored around around about 680 or less so the percentage of the students who get eliminated is going to be very high here."
+00:30:40,00:30:41, Right and.
+00:30:41,00:30:43, If this is the case.
+00:30:45,00:30:53," If this is the case and if I say six at here very, very limited very small number of students are getting filtered."
+00:30:54,00:30:56, It means a lot of people are still available.
+00:30:57,00:30:58, isn't it.
+00:30:59,00:31:11," So you have only limited seats hundred hundred seats are available, so if I to six ad Am I filtering out a good amount of students or not."
+00:31:14,00:31:15," Right, I said top."
+00:31:15,00:31:19, 10 right Mona Lisa i'm assuming a lot of students are applying.
+00:31:22,00:31:25," Right top 10 universities, a lot of people will have."
+00:31:27,00:31:35," So the decision from the management has to be checked again every year, based on the distribution of the data."
+00:31:36,00:31:53," Okay, if the examination is easy at this is the kind of distribution, you will see in this case the cutoff could be somewhere here if the examination was very difficult, then obviously a lot of students will score less mark so you're cut off should probably be around this way this space."
+00:31:55,00:31:59, So that you give majority of the people right the apple logic.
+00:32:00,00:32:07," That the logic is you, you allow a lot of students, good quality students to apply for the university."
+00:32:08,00:32:11," Now, can you tell me if I choose six at."
+00:32:12,00:32:15, How much percentage of students are getting eliminate debt.
+00:32:28,00:32:33, So if I have to get back remember area under the curve is one so we're basically saying.
+00:32:35,00:32:36, This is the bell curve.
+00:32:40,00:32:43, And i'm interested in this area.
+00:32:46,00:32:49, Okay i'm interested in this potion.
+00:32:53,00:32:57, know how do I calculate area under this curve.
+00:32:59,00:33:01, Because remember how do we calculate area.
+00:33:11,00:33:15," Yes, how many of you actually remember calculus integrations."
+00:33:23,00:33:24, So this is.
+00:33:29,00:33:32, This is upper limit 680.
+00:33:33,00:33:34, And then I say fix.
+00:33:37,00:33:39, This is a representation right.
+00:33:45,00:33:48," But the point is, what is the equation, we have the equation given."
+00:33:52,00:33:54," Well, so actually that's what I was thinking."
+00:33:55,00:33:56, Exactly and.
+00:33:57,00:34:00, Another challenges for every time the data chain.
+00:34:00,00:34:06," Is, we have to get the equation again done right this entire area has to be calculated."
+00:34:07,00:34:21," So for every small or big change, you will have to do a lot of mathematical calculations and there are so many different right continuous variables and for all of them, you don't have this equation equation was given fine can do that."
+00:34:23,00:34:25, So what is the alternative yet what can I do.
+00:34:29,00:34:39," So here in order to capture the area under the curve, we will now comes the normal distribution guys, this is the application of normal distribution Center."
+00:34:40,00:34:43, We are verifying i'm raising all this.
+00:34:44,00:34:46,"stock, let me just erase all this."
+00:34:48,00:34:49, unwarranted thanks.
+00:34:50,00:34:52," Alright, so we're talking about."
+00:34:56,00:34:58, Normal distribution.
+00:35:01,00:35:03," Why, because this is continuously."
+00:35:05,00:35:14," Of course, you know, to verify using normal qq plot or not yeah sooner than that and data is normally distributed to your G man data is normally distributed."
+00:35:18,00:35:21, If this is normally distributed.
+00:35:23,00:35:23, Right.
+00:35:25,00:35:29, Then I can try to map it with Z scale.
+00:35:32,00:35:36, isn't that means i'm trying to do standardization.
+00:35:39,00:35:40, I can do that right.
+00:35:45,00:35:50," Normal distribution G man, and then we are talking about standardization."
+00:35:52,00:35:56," I can do the standardization, because you might as normal distribution, remember that."
+00:35:59,00:36:02, So for every corresponding gmat score.
+00:36:04,00:36:07," For every corresponding gmat score, we will have a corresponding value nz."
+00:36:09,00:36:15," But this is new and this is new, which is equal to zero, this is 711."
+00:36:16,00:36:21, And the standard deviation yet on see we have Sigma as one.
+00:36:23,00:36:25, Whereas on G matt the Sigma was 20.
+00:36:27,00:36:29, So i'm trying to map like.
+00:36:31,00:36:38, We are trying to find out the area under the Belka for six a D.
+00:36:39,00:36:54," So what is the corresponding Z value for 686 80 minus newest 711 Sigma is 29 these are standard values we already know data, so we can."
+00:36:55,00:37:15, Get yeah can anyone tell me what is this reserve six at minus seven seven by 29 i'm taking the time to.
+00:37:26,00:37:28, pick C D minus seven.
+00:37:31,00:37:32, minus 1.06.
+00:37:34,00:37:35, minus 1.06.
+00:37:37,00:37:38, degrees.
+00:37:38,00:37:40,minus 1.6.
+00:37:42,00:37:56," hey so for X value that is Jim add value to succeed if I have to compare that with Z then on Z we have minus 1.6 right, but what is the."
+00:37:58,00:38:00, Z is this standard.
+00:38:03,00:38:05, which follows normal distribution of course.
+00:38:07,00:38:08, Because it is standard.
+00:38:09,00:38:13, It has certain property static properties right standard properties.
+00:38:14,00:38:15, If it is standard.
+00:38:18,00:38:23, Then statisticians right can also do a lot of calculations.
+00:38:24,00:38:27, Because it has certain properties doesn't change so.
+00:38:28,00:38:34, Using this logic statisticians have calculated.
+00:38:35,00:38:45," area under the curve for different different Z values, because why Jesus symmetrical curve at the Center you'll have zero."
+00:38:46,00:39:04," So I will be able to calculate the area under the curve this entire area under the curve is one but for a specific value what is it specific value what is it right, so these kind of calculations are already done, and they are stored in something called lessons Z table."
+00:39:07,00:39:09, So let us look into the Z table here.
+00:39:11,00:39:12, Let me minimize this.
+00:39:22,00:39:28, There is excluded it empties Z table remember this is a standard so fixed.
+00:39:30,00:39:30, This thing will be.
+00:39:32,00:39:32, The table.
+00:39:34,00:39:36, We are trying to verify.
+00:39:39,00:39:43, But this the table as we discussed is actually carry.
+00:39:45,00:39:45, This Bush.
+00:39:48,00:39:50, left side portion.
+00:39:51,00:39:52, From see.
+00:39:54,00:39:55, I could do the calculations.
+00:39:59,00:40:00, Because it is standard right.
+00:40:02,00:40:07, So using this concept we are trying to now do the calculation for.
+00:40:09,00:40:09,60.
+00:40:11,00:40:16," Zero minus 1.06 you guys did that calculation, this is the Z table."
+00:40:18,00:40:19," happening, the link in the."
+00:40:20,00:40:28, chat zoom chat you can just open it it doesn't the website it just search for 316 digit n g.com slash CT but you'll get this.
+00:40:30,00:40:32, So when when we look at this.
+00:40:35,00:40:36, I will have.
+00:40:38,00:40:41, Z values on first corner.
+00:40:43,00:40:47," And you can see, the rules each show is speaking about one different Z value."
+00:40:50,00:40:57," And the second decimal value this is with respect to first assessment, but the second decimal values are expressed in barrels."
+00:41:00,00:41:03," Okay, so we need minus."
+00:41:04,00:41:09, 1.06 so how minus one yet.
+00:41:11,00:41:14, minus 1.0 and 06.
+00:41:15,00:41:16, that's that's what we're trying to get.
+00:41:18,00:41:20, So minus one is here.
+00:41:21,00:41:26, And the second step disabled 06 right bring them together.
+00:41:29,00:41:38, I get 0.1446 if I multiply this with hundred i'll get 14.46%.
+00:41:41,00:41:45," Now, from a university perspective if you are applying cutoff."
+00:41:46,00:41:48, Are you willing to lose.
+00:41:52,00:41:53,say.
+00:41:54,00:41:57, Are you willing to lose 15% of the students.
+00:42:01,00:42:02, That that's The point of this.
+00:42:04,00:42:09, they're trying to see if you can lose 15% of the students.
+00:42:11,00:42:17, If you if your management says no 15% is very big number I don't want to do so many people.
+00:42:18,00:42:24," Then, probably, you might want to reduce the society to a smaller value 60 or 70 years 75 whatever that is."
+00:42:27,00:42:27, Right.
+00:42:33,00:42:35, So if I say 660.
+00:42:37,00:42:39, yeah can you guys tell me.
+00:42:40,00:42:59," What will be the percentage of students who get filtered out if you choose the math to be less than 665 let's say 660 yeah because the minimum oxen 600, so I would try to see if it is 665."
+00:43:03,00:43:09," yep, then what is the percentage of students, that we are using yeah."
+00:43:11,00:43:12, Do the calculation of.
+00:43:12,00:43:37, 10 minus 1.58 so we have to check for like minus 1.5.
+00:43:40,00:43:43, And the minus 1.5 and it so.
+00:43:45,00:43:45, Yes.
+00:43:47,00:43:51, So it's these 7.1% is it.
+00:43:52,00:43:52, Is a.
+00:43:52,00:43:56, high point sorry 5.5 point 7%.
+00:43:57,00:44:01," Okay, to side with did everyone get minus 1.58 as a calculation for Z."
+00:44:03,00:44:08, So we were basically having X from this X we're trying to calculate Z.
+00:44:09,00:44:17, How by using the formula X minus MU by Sigma I already mentioned newest to 11 Sigma is 29.
+00:44:21,00:44:24, yeah did everyone get the same result minus 1.58.
+00:44:27,00:44:28," If yes, then good."
+00:44:30,00:44:32," After this, we are looking at."
+00:44:33,00:44:34, The table.
+00:44:37,00:44:41," And we try to find out the value, which is right falling on that specific ad."
+00:44:43,00:44:52, 05717 to 11 you have written.
+00:44:53,00:44:54, It was 711.
+00:44:56,00:44:58, yeah okay so remember seven.
+00:45:04,00:45:06, yeah if this is the case.
+00:45:07,00:45:12, Then the area for this particular program is.
+00:45:14,00:45:17, 5.71 percentage.
+00:45:21,00:45:41," Okay, so you're you're basically looking at a scenario where using the Z table standardization formula we are trying to assess the area under the curve and what we're saying is gmat score is normally distributed That means it will be similar to yours see."
+00:45:43,00:45:53," That the assumption right data is distributed normally means it is just like shape of the curve is just like see it may not be exactly the same, but we're saying it as similar."
+00:45:54,00:46:04," Given this case, if I have to find out this area, then I tried to map that same value on Z and then i'll calculate this and that is nothing but you are."
+00:46:10,00:46:10, clear to everyone.
+00:46:19,00:46:20, Any questions.
+00:46:32,00:46:32, Now.
+00:46:33,00:46:34, yeah no go ahead.
+00:46:35,00:46:36, Of.
+00:46:38,00:46:44," The curve is the constant function, no, no, no."
+00:46:45,00:46:45, No.
+00:46:46,00:46:47, Come again.
+00:46:48,00:46:48, Hello.
+00:46:50,00:46:51, Hello.
+00:46:52,00:46:52, I can hear you.
+00:46:53,00:46:53,repeat.
+00:46:58,00:46:58, Yes.
+00:46:59,00:47:04," Sir, I just said, you know you got a question of this curve is the cost function like."
+00:47:07,00:47:16, So one thing I would like you said before that the one thing I would like to know the significance of negative geez energy value.
+00:47:16,00:47:27, Or the positive value So can I interpret the the general things because somewhere in the G value is summer i'll get the positivity value and summer i'll get the negatives so.
+00:47:27,00:47:31, there's nothing specific to interpret this is zero.
+00:47:32,00:47:34, ne ne zero.
+00:47:35,00:47:39, The values are spread across the sea table.
+00:47:39,00:47:53," Because i've actually or how can I say that, as you said, there is a lefty skew the data that the concentration of data is you know concentrated towards the right side it's left to school, yes, because the."
+00:47:53,00:47:55, mean as influential.
+00:47:55,00:47:57, Know loads loads and loads of things.
+00:47:58,00:48:01," Yes, but, but I see that."
+00:48:02,00:48:09," The Z de mar data is not normal did I say that, or what was the discussion that we were having."
+00:48:11,00:48:13," dinner, assuming that decision."
+00:48:14,00:48:15, Okay.
+00:48:16,00:48:22," So, if it is normal, we don't consider this kunis and all that we are assuming that everything is like a bell shaped curve."
+00:48:24,00:48:25," Okay, practically."
+00:48:27,00:48:27, Practically.
+00:48:29,00:48:34, Even though G matt is showing a little kunis like this.
+00:48:35,00:48:40, But when we try to look at or when you try to compare jima data with.
+00:48:42,00:48:43, Standard Z value.
+00:48:45,00:48:50, Then we find that the line is straight on the normal qq plot.
+00:48:51,00:48:51, Normal keep.
+00:48:51,00:48:58," The data scattered in a straight line that means we are assuming it may not be perfectly straight, but overall pattern is a street and."
+00:48:59,00:49:02, That means the data is normal.
+00:49:04,00:49:08, This thing can be applied the logic that we are doing here right.
+00:49:09,00:49:17," we've been very basically we're taking X, then we are trying to calculate the Z, then we are trying to calculate probability using Z table."
+00:49:20,00:49:27," All this will be valued only when this is normally distributed, only then I can compare it with see right."
+00:49:30,00:49:30, or.
+00:49:30,00:49:35," If it is not normal and there is no point I do the comparison, because obviously this is not normally to skew."
+00:49:36,00:49:38, Whereas Z will have a perfect will ship.
+00:49:40,00:49:40, Right.
+00:49:41,00:49:42, Thank Thank you.
+00:49:46,00:49:49, So we are assuming that data is not but.
+00:49:50,00:49:51, Only then we are doing all this.
+00:49:54,00:49:54, Now.
+00:49:57,00:50:00, I want also to give scholarships.
+00:50:02,00:50:09, right as a being if I have to strategize something for admissions I also want to give some offers.
+00:50:10,00:50:22, But these offers i'll give to only good performing students because eventually they are going to get into good jobs and they're going to get name to the institution to the university.
+00:50:24,00:50:29," So we are we're trying to run offered scholarships, based on the performance."
+00:50:31,00:50:31, Okay.
+00:50:37,00:50:37, Another question.
+00:50:38,00:50:47, Can we consider like person tied in this case of scholarship like 90 percentile students who scored on 90 percentile or something like that.
+00:50:48,00:50:49," Yes, yes, yes, that is what we are doing."
+00:50:50,00:50:50, OK OK.
+00:50:51,00:50:52, So Vanessa six at.
+00:50:53,00:50:56, It is actually a point that point is percent.
+00:50:57,00:50:59, below that you have 15% page.
+00:51:00,00:51:01," OK OK OK, so at."
+00:51:01,00:51:04, This point becomes 15%.
+00:51:05,00:51:05," Okay, so."
+00:51:06,00:51:11," same day, I also want to give scholarship."
+00:51:11,00:51:13, only to those students who have secured very good.
+00:51:15,00:51:16, Right.
+00:51:17,00:51:18, So how about.
+00:51:19,00:51:22, coming to a conclusion on what value should.
+00:51:23,00:51:26, Here we use succeed on the left side.
+00:51:27,00:51:28, But on the right side.
+00:51:31,00:51:32, Maybe i'll say.
+00:51:36,00:51:39, The maximum Marcus 780.
+00:51:40,00:51:40, So i'll give.
+00:51:44,00:51:46, scholarship to let's save.
+00:51:48,00:51:49, Seven 770.
+00:51:54,00:52:00, i'm going to tell that all the students will get scholarship if their score greater than 70.
+00:52:03,00:52:17," Now, if I declare this, then how many students are going to fall in that section, because all for all of them, I have to give the scholars, will this be a good idea to randomly just declare the scholarship based on them."
+00:52:19,00:52:22," Again, because if it isn't easy exam."
+00:52:24,00:52:26, lot of students will fall in this area.
+00:52:30,00:52:30, Linden.
+00:52:34,00:52:40, If this is the GIs then obviously i'm going to go into losses because free educational scholarship right.
+00:52:42,00:52:44, If you're declining scholarship then a lot of people are getting into.
+00:52:46,00:52:47, This bracket.
+00:52:49,00:52:55," isn't it so in this kind of scenario, maybe I want to reduce this reach to a smaller value."
+00:52:57,00:53:00," Right So how do we deal with this, can you tell me."
+00:53:05,00:53:06, Can you tell me.
+00:53:07,00:53:08, What is the.
+00:53:08,00:53:13, percentage of students who have actually got marks greater than 70.
+00:53:14,00:53:15, yeah.
+00:53:45,00:53:50," So for that we need to know, like the data right like the number of students who got what do they call."
+00:53:52,00:53:55, About 770 and on by the total number of students.
+00:53:56,00:53:57, Did you get the.
+00:53:59,00:54:02, same number of students who got say the much less than 630.
+00:54:03,00:54:04, OK OK OK so i'm going.
+00:54:05,00:54:06, To do the calculation.
+00:54:06,00:54:07," Yes, yes, Sir, yes."
+00:54:38,00:54:41," So, so the Z value is 2.03."
+00:54:42,00:54:43, So.
+00:54:44,00:54:48, We need to check for like the percentage of 2.03 for the Z value.
+00:54:49,00:54:51, yeah you're absolutely right we'll open it open it.
+00:54:51,00:54:52, Okay okay.
+00:54:53,00:54:54,yeah whatever and others.
+00:54:56,00:55:00," Okay, good Okay, the bus responded."
+00:55:13,00:55:14, said I got my answer is.
+00:55:14,00:55:33,97.8890407 72.38%.
+00:55:35,00:55:37, Less than 2% will be people that she.
+00:55:38,00:55:40," Very good, yes."
+00:55:42,00:55:46, see what we're trying to understand here is greater than service.
+00:55:47,00:55:52, So if I have been shaped curve and saying this is 770.
+00:55:53,00:56:07," So when you use the seat table always remembers the table does the calculations, so this is lower limit then upper limit and then function of X dx so always it takes the."
+00:56:08,00:56:20," left side Bush and oversight for doing the calculations very so try say seven seven D, it is assuming that from here, everything."
+00:56:22,00:56:29," read all this data, and when you refer to the table you're getting somewhere around 98% down to the ground, it off."
+00:56:31,00:56:35, But i'm not interested in the Left set portion interested in greater than.
+00:56:36,00:56:39, data and so that means we're interested in this portion.
+00:56:40,00:56:45, The end of the total curve is 100% right.
+00:56:47,00:56:52, So we are taking only 2% by removing that 98% of the data.
+00:56:57,00:56:58, Good.
+00:57:00,00:57:01, Is it clear.
+00:57:01,00:57:02,Yes.
+00:57:05,00:57:10, So the table is actually referring to the left side portion of Z.
+00:57:12,00:57:14, cumulative portion.
+00:57:19,00:57:27, So the new look at that we are getting 98.2% 98% if I convert that it is to push.
+00:57:30,00:57:36," It off right and shaded push right, I should say area of the curve, where you have red colored lights."
+00:57:41,00:57:42," So that means, if I can."
+00:57:43,00:57:44, Have a budget.
+00:57:46,00:57:49, Then I can decide what will be the cutoff values.
+00:57:51,00:57:58," Right in order to get the area and the local and area under the curve, is nothing but your probability or portion."
+00:58:03,00:58:06, So this is how Z table is used for to indicate.
+00:58:10,00:58:15," Okay, but always remember it is only looking at left side portion of this."
+00:58:17,00:58:18,Okay.
+00:58:28,00:58:29, Okay now.
+00:58:42,00:58:44, Using the standard ization for.
+00:58:47,00:59:04," Using this standardization for law to map the X values to see when US and because these standard the calculations are already done for this table using this as a reference, we are trying to evaluate the values for the kind of it."
+00:59:07,00:59:13," Okay, these are the conditions that we talked minus 1.06 it is 14% if I have to want."
+00:59:16,00:59:26," It and these calculations, if I have higher value than we say greater than value and that's I think what one minus the left side portion gives you the right side push."
+00:59:29,00:59:42," But all this is possible only when your data is normally distributed if data is not normal all this doesn't make any sense, so if data is not normal What should we do, or what we do."
+00:59:45,00:59:48, yeah if data is not normal.
+00:59:50,00:59:51, What we do.
+00:59:58,00:59:59, We discuss this long time.
+01:00:02,01:00:06, If data is polled that form to be non normal.
+01:00:07,01:00:09, Always normalize the data right.
+01:00:11,01:00:13, But what is the process called last.
+01:00:13,01:00:15, normalization or.
+01:00:15,01:00:17, Standardization standardization is continuous.
+01:00:19,01:00:21, it's not normalization of standardization.
+01:00:22,01:00:24," As one solution, I think."
+01:00:24,01:00:26, i'm summations very.
+01:00:26,01:00:29," Good, the answer is transformations."
+01:00:31,01:00:33, We transform.
+01:00:35,01:00:47, The Non non data to novelty once we get the transform data we do the calculations get the results transform it back to those you know scale and then evaluate or interpret the results.
+01:00:49,01:00:56," yeah right, so this is normal qq plot strategy without normality, we cannot proceed for."
+01:01:00,01:01:11," Okay, so next is very important point we'll discuss that in a moment we'll take shortcuts yeah this time i'll give you more brains, but shorter duration."
+01:01:12,01:01:20, So in my watch it's 373 to five minutes break come back with me okay.
+01:01:23,01:01:23, yeah.
+01:01:34,01:01:34, Everyone.
+01:01:41,01:01:46," Alright, so we just discussed on how we do calculation."
+01:01:48,01:01:50, To get area under the curve.
+01:01:53,01:01:56, This is nothing but the probability.
+01:01:58,01:02:02, Now this probability calculations are useful for doing for addiction.
+01:02:04,01:02:04, As you can see.
+01:02:07,01:02:09, If you have do you mad scores.
+01:02:10,01:02:16," Then, what is the chance that the student that I had randomly pick is having."
+01:02:18,01:02:32," marks greater than let's say seven but less than 700 right, so this way we can try to use this area logic to calculate probability or prediction."
+01:02:35,01:02:41," And this this concept is basically applied for value, which is continuous in nature."
+01:02:43,01:02:45," And in order to do this calculation, we look at."
+01:02:47,01:03:04," It we are looking at the normal distribution properties why because the value is continues, and if it has continued as it has to be normally distributed, if not we convert that to become not but and once we have normally distributed data in we compare it with Z."
+01:03:06,01:03:10, And nz we basically use the table.
+01:03:12,01:03:19, we're using the table in order to calculate the area under the curve and if I know the potion.
+01:03:21,01:03:28," With respect to the corresponding ziva you have X, then the area under the curve will remain say."
+01:03:30,01:03:32, irrevocable remains.
+01:03:33,01:03:41, So this this Z table is Alice to actually calculate the probability or area for your random variable X.
+01:03:43,01:03:46, So that's normal qq plot for us.
+01:03:50,01:03:50, Now.
+01:03:51,01:03:57," This is with respect to you need a good analysis Okay, when you have a single variable we tend to do this."
+01:03:59,01:04:03, But let's say you have multiple variables and all those those cases are coming.
+01:04:05,01:04:10," Okay, and what we're basically saying is when we are trying to do the prediction."
+01:04:13,01:04:26," Trying to do the prediction will always work with sample data, this is your inferential statistics concept will never get population data, the 773 students that we work with."
+01:04:28,01:04:28, Right.
+01:04:30,01:04:34," This is also a sample, this is not population."
+01:04:35,01:04:35,Okay.
+01:04:37,01:04:38, Now let us assume.
+01:04:40,01:04:41, I give you.
+01:04:44,01:04:51, Data let's say this is my data okay 123456.
+01:04:53,01:04:53, A day.
+01:04:56,01:04:56, Okay.
+01:04:59,01:05:05," When we talk about die, it has six possible outcomes, this has made our number 36 possible."
+01:05:07,01:05:07, Okay.
+01:05:10,01:05:12, If you basically let's say.
+01:05:13,01:05:14, Roll the dice.
+01:05:17,01:05:18," Four times, or three times."
+01:05:20,01:05:22, Roll that particular day three types.
+01:05:23,01:05:29, Right let's see which now has done the ruling of this day three days.
+01:05:31,01:05:47," Okay, so this is my sample one randomly you might get one result for each direct and bedroom so give me some three random numbers out of the six assume that you're rolling the dice you got three results right so from that perspective."
+01:05:47,01:05:54, Three five and 635613 times.
+01:05:56,01:06:01," So you're basically having the results as three, five and one now let's say no, you don't."
+01:06:02,01:06:03,notice.
+01:06:04,01:06:09," repeating this exercise, you are you're also randomly repeating right, so what might you get."
+01:06:13,01:06:14, Give me three numbers.
+01:06:19,01:06:20, And it's all good.
+01:06:22,01:06:22, yeah.
+01:06:22,01:06:26, Next manali couple you might want to get your own.
+01:06:27,01:06:30, Yemen your your experiment results.
+01:06:31,01:06:33, yeah see see for you guys.
+01:06:34,01:06:37," Okay, want to give the same results okay."
+01:06:40,01:06:41, it's for.
+01:06:43,01:06:44, yeah probably you might want to give them.
+01:06:50,01:06:53, A six four and three okay.
+01:06:53,01:06:57, 643 random guys don't give it too much of thought.
+01:06:57,01:06:58,it's just random output.
+01:07:01,01:07:13, yeah so sampling five samples except they cannot so everyone asked me one so just bear with me on that so let's see we have 100 people and i've asked all the hundred people to do this experiment.
+01:07:15,01:07:24," For all the hundred people, we will get random visits right, it may baby, or it may be same also lights you don't know."
+01:07:26,01:07:31," Each of this role, I experiment is a sample."
+01:07:33,01:07:33, Right.
+01:07:35,01:07:37," Now, on this sample."
+01:07:38,01:07:39, We will be doing the calibration.
+01:07:40,01:07:46," Okay, now, what is the average of this."
+01:07:52,01:07:54, Have it will be three right.
+01:07:58,01:08:00, What is the average of this.
+01:08:03,01:08:07, 11 by three probably it is 3.6.
+01:08:09,01:08:11, This one again three this one.
+01:08:13,01:08:16, That team point 3014 four point.
+01:08:18,01:08:20, So on so forth i'm getting different results.
+01:08:22,01:08:25, What is the average of this actual population data.
+01:08:31,01:08:33, yeah what is the other job.
+01:08:39,01:08:41," All right, to bring something."
+01:08:42,01:08:52, Different something like 3.5 3.5 average of 123456 is middle value 2.5.
+01:08:55,01:09:03, So what i'm trying to explain here is when we do inferential statistics when we're trying to do inferential statistics.
+01:09:06,01:09:14," We always work with sample data only but that sample data, maybe."
+01:09:16,01:09:20, Your sample data itself might vary.
+01:09:21,01:09:28, If you're on the line data various the statistics that you are going to get will also very.
+01:09:29,01:09:29, Good.
+01:09:35,01:09:36, isn't it.
+01:09:42,01:09:47, Then among all these different samples that I have has 100 samples.
+01:09:50,01:09:58, Out of all the samples who sample should I choose because I don't know this and i'm trying to calculate it from a business perspective.
+01:10:00,01:10:01," Right so, for example."
+01:10:04,01:10:12, I want to identify a standard example I want to identify it employee's salary I love this exam.
+01:10:15,01:10:23, All the IP employees salary is what I want to identify let's say in India will will limit limit to India.
+01:10:25,01:10:31, This is your population return you're interested in finding population parameters.
+01:10:33,01:10:36," But, will you get all the employees D is will that be possible."
+01:10:41,01:10:43, If I asked me people to do this.
+01:10:46,01:10:47, What will you do.
+01:10:49,01:10:52, You probably probably try to write conduct this way.
+01:10:54,01:10:55, and gather data.
+01:10:57,01:10:59, Because you're not have got a right readily available date.
+01:11:01,01:11:03, And nobody directly discloses the salary.
+01:11:05,01:11:09," So trying to ask some people, and some people may respond some people may not respond."
+01:11:10,01:11:10, Okay.
+01:11:13,01:11:14, So gather data.
+01:11:15,01:11:16," Now, do you think."
+01:11:19,01:11:25, The surveys right the data that let's say de Monte is going to get.
+01:11:27,01:11:34, will be the same data that everybody will also get God Murray manali in the report now everybody.
+01:11:35,01:11:36, i'd be getting the same data.
+01:11:41,01:11:47, Know Dave is doing his own survey he's trying to reach out to his network people right.
+01:11:50,01:11:59," Maybe his close associates close friends immediate family members so on so forth we're working in it department, there was going to get information from those people."
+01:12:02,01:12:17," hey Similarly, if I talk about let's say permission permissions going to get the same information from this net rockstar is going to get the data from right that that particular network that that she is associated."
+01:12:19,01:12:19, Right.
+01:12:21,01:12:21, But.
+01:12:23,01:12:25, Everybody is going to talk about.
+01:12:26,01:12:27, Population parameter.
+01:12:30,01:12:37, Linda they're trying to represent inferential statistics means that only right take statistics and then estimated to population.
+01:12:39,01:12:42," Now among all your calculations, whose calculation, should I choose."
+01:12:44,01:12:48, is no current Dave carrot carrot carrot who's correct.
+01:12:52,01:12:54," Everybody is correct, because the logic that knowing is correct."
+01:12:55,01:13:00, But because the underlying logic underlying data is changing.
+01:13:01,01:13:17," The results are also going to change, so you cannot you cannot basically consider different different results for population parameter the parameters here is always fixed I mean one result or a parameter should be one reason."
+01:13:19,01:13:22, But that's not gonna happen because samples are changing.
+01:13:30,01:13:42," So, if this is the problem when we are trying to deal with inferential statistics and this problem is called as sampling variations or sample variation."
+01:13:44,01:13:45, If this is your population.
+01:13:47,01:13:50, As you perform and is assume this is your population.
+01:13:51,01:13:54, Whenever we say population we're assuming that we don't know that.
+01:13:55,01:14:08," But on this population, I have to calculate view and then for these numbers, the population is 33 because I know the data, you can also do the calculation, the right values will be at the to."
+01:14:10,01:14:13, know in order to calculate the population.
+01:14:15,01:14:24," If I don't know the population, then we will go first sample data assuming sample sizes to collect the data and then these are all the possible samples that I have."
+01:14:28,01:14:36, Not depleting if it has to be known to pretend that these are the samples that I have on each of the samples has equal probability.
+01:14:41,01:14:43, you're losing unbiased techniques right.
+01:14:45,01:14:49, So each of the sample will have equal opportunity to get select.
+01:14:50,01:14:51, Okay.
+01:14:53,01:15:01, You may end up getting sample one or you may end up getting sample for our sample file or any time.
+01:15:02,01:15:15," So if I have all these multiple samples, we may end up going into any of these samples, and for those respective samples the status thing that you are telecommuting he's giving us different different results."
+01:15:17,01:15:20," Now, if I don't know population i'll consider it all correct."
+01:15:22,01:15:27, But is the mean if I do reverse engineering is this mean 29 equal to 33.
+01:15:29,01:15:29, No.
+01:15:32,01:15:35, Right or 37 if you say that is also not equal to 33.
+01:15:37,01:15:43, So the sample that you are going to work with may or may not give you the exact population.
+01:15:46,01:15:47, Okay.
+01:15:51,01:15:56, So to deal with this problem we have something called less central limit theorem.
+01:15:58,01:16:00, keep us in the next slide we'll talk about that.
+01:16:01,01:16:06," So sampling variations, once again we are talking about samples that we are collecting."
+01:16:07,01:16:10, being very they keep changing.
+01:16:12,01:16:21, And because we are using the sample data which keeps changing the underlying data may or may not give you the appropriate statistics.
+01:16:23,01:16:26," Right, so we may get different different results."
+01:16:28,01:16:36," If i'm using unbiased techniques, I may get any of these samples, that means the sample selection is a random."
+01:16:38,01:16:41, Random service technically random selection happens.
+01:16:43,01:16:56," So, if your sample and the leg sample is getting randomly selected the calculations, will also be and these results that you're seeing are going to be random So if I consider this as my data and."
+01:16:57,01:16:59, This become my random variable.
+01:17:00,01:17:04, Because the values are random each so it's it's also running.
+01:17:08,01:17:09," Okay, one question to you or."
+01:17:11,01:17:15, Whatever that we get a calibrations that we're talking about with respect to statistics.
+01:17:18,01:17:19," What results, we will get."
+01:17:21,01:17:26, If I say mean if I say median median median may not be a parameter.
+01:17:27,01:17:28, Since that non parametric case.
+01:17:30,01:17:33, So any statistic value that we talked about reasons or.
+01:17:34,01:17:37, excuses or courses or right.
+01:17:38,01:17:40, This mean.
+01:17:44,01:17:45, yeah.
+01:17:46,01:17:49," I love the data, what is the data type that we are going to."
+01:17:51,01:17:53, put all the statistics that we talked about.
+01:18:02,01:18:03, What is going to be the data.
+01:18:07,01:18:08, descriptor of continuous.
+01:18:12,01:18:13, discrete.
+01:18:14,01:18:14, Are you sure.
+01:18:19,01:18:31, 123456 what is the average you know.
+01:18:35,01:18:45," So when you're taking me in on when you're doing some calculations on some data, there is always chance at the answer will be like in a proper decimal format, so it may be continuous mostly."
+01:18:46,01:18:47, It has to be continued.
+01:18:47,01:18:48," Yes, yes, so."
+01:18:50,01:18:52, Any statistic that you want to get.
+01:18:52,01:18:55," It right, it will always be continuing, that is."
+01:18:56,01:18:59," Again, another standard concept that you have to remember."
+01:19:02,01:19:03, Okay.
+01:19:05,01:19:09," it's a bigger type of your statistic is always continues, no."
+01:19:11,01:19:12, Not district.
+01:19:13,01:19:16," In this example, it is shown with discrete examples."
+01:19:18,01:19:18, Okay.
+01:19:21,01:19:21,yeah.
+01:19:26,01:19:26, know.
+01:19:29,01:19:31, If this is continuous data.
+01:19:34,01:19:37, The statistic that we are talking about is up continuously.
+01:19:40,01:19:40, Okay.
+01:19:41,01:19:43, And we are trying to find out.
+01:19:44,01:19:45, One value.
+01:19:46,01:19:47, Of this data.
+01:19:51,01:19:52, hey.
+01:19:53,01:19:57, we're interested in getting one value out of this entire continuous data.
+01:20:00,01:20:03, Property i'm in the chance of getting.
+01:20:04,01:20:05, That one value.
+01:20:06,01:20:07, What does a chance.
+01:20:12,01:20:12, zero.
+01:20:13,01:20:14, Exactly.
+01:20:17,01:20:21, good chance of getting exactly that one value will be zero.
+01:20:22,01:20:23, Okay.
+01:20:27,01:20:34," So, using all these concepts statisticians have thoroughly understood the pattern behavior of this data."
+01:20:36,01:20:37, And what they have observed is.
+01:20:39,01:20:43, That distribution of the sample status to talk about mania.
+01:20:44,01:20:47, The distribution is all with normal.
+01:20:49,01:20:54, Okay respective whether it is coming from data which is normal or not.
+01:20:55,01:20:59," The results are always going to be normal, or approximately normal."
+01:21:01,01:21:01, Right.
+01:21:10,01:21:14," Now, if it is normal that means your status stick."
+01:21:17,01:21:23," which we have to calculate is coming from some data, and we are seeing this data is normally distributed."
+01:21:24,01:21:26," Okay, but there's continuous than it estimates."
+01:21:27,01:21:29, That means it has certain properties.
+01:21:30,01:21:32, As a variable is distributed normally with.
+01:21:34,01:21:35, New and Sigma.
+01:21:39,01:21:39, yeah.
+01:21:44,01:21:49," So, considering these concepts, we are basically trying to make some studies here."
+01:21:53,01:21:58," If I basically talk about first moment business decision, what is it talking about."
+01:22:01,01:22:05," I mean it's nothing but me, but what does mean."
+01:22:05,01:22:06, Speak above.
+01:22:08,01:22:09, Average.
+01:22:11,01:22:13, median or average and what does it.
+01:22:14,01:22:16, Distribution distribution.
+01:22:18,01:22:18, mean.
+01:22:20,01:22:22, Okay variance is about distribution.
+01:22:22,01:22:28," Yes, yeah I mean is the represent a to value or the characters."
+01:22:29,01:22:31, Central tendency exactly.
+01:22:32,01:22:34, So it is a representation or.
+01:22:34,01:22:35,characteristics.
+01:22:37,01:22:48," Right and this data mean is representing about you, which gives some meaningful influence about your entire dataset."
+01:22:49,01:22:52, Thank okay so that's that's actually what meaning is all about.
+01:22:54,01:22:58," Now, when we are trying to calculate population parameter."
+01:23:01,01:23:07," we're trying to calculate population parameter, and these population parameters right is like your."
+01:23:10,01:23:12, Fixed reserved for them and fixed pattern.
+01:23:15,01:23:21," expected value, but when we are trying to calculate this we are getting status take."
+01:23:23,01:23:31," And we get multiple statistics, but each of the statistic was done or calculated in order to get parameter."
+01:23:32,01:23:33, Right.
+01:23:35,01:23:37, So when we speak about.
+01:23:39,01:23:46," Identifying the statistics, then we are saying that the value is coming from normally distributed data."
+01:23:48,01:23:50, And normally distributed data is.
+01:23:52,01:23:54, Having these two properties.
+01:23:55,01:23:56, characteristics.
+01:23:57,01:24:10," So mean is the representation so for all the possible statistics that we are talking about becomes your random variable now, and this random variable is trying to represent parameter."
+01:24:12,01:24:15," Thank you, a sample data is trying to represent."
+01:24:18,01:24:20," parameter, so we are looking at."
+01:24:22,01:24:23, we're looking at.
+01:24:25,01:24:28, Average of average years.
+01:24:31,01:24:33, If you do this average of average yes.
+01:24:34,01:24:42, This is X bar one this expert to this is expert three so on so forth right if we do average of average us.
+01:24:43,01:24:45, This is your expired.
+01:24:46,01:24:46, Right.
+01:24:48,01:24:55," Then we will get population average if I do average of whatever it is, I get new."
+01:24:56,01:25:01," Because that's what this entire data is represented, we are interested in getting that only right."
+01:25:03,01:25:07," So expired one X bar to so and so forth, if I tried to do that."
+01:25:09,01:25:11, Again opposition.
+01:25:12,01:25:18," This is the specific property that we have to remember, and this is what central limit theorem is speaking."
+01:25:22,01:25:24, mean off means.
+01:25:25,01:25:31, This is X bar mean off these expires is basically giving us population mean view.
+01:25:32,01:25:34, At the same time standard deviation.
+01:25:36,01:25:42, is basically nothing but Sigma by square root of its various basically Sigma squared y en.
+01:25:45,01:25:48, Therefore calculations views that ugly variance.
+01:25:49,01:25:54," Others, otherwise we cannot deal with the red different summation it becomes a zero."
+01:26:00,01:26:01, Right so standard deviation.
+01:26:02,01:26:09, X equals two Sigma squared Rudolph and which is the variation in these samples with respect to the Center.
+01:26:11,01:26:15, So if I consider this a sample data and then variable.
+01:26:17,01:26:30," Then first moment, which is the mean is going to be the mean of these results second moment is the variation among these samples, that is, can split that is calculated by square root of."
+01:26:34,01:26:36," Right, so this is basically be."
+01:26:38,01:26:41, Calculations for your random variable.
+01:26:42,01:26:45, That random variable is nothing but the statistic.
+01:26:47,01:26:50," Okay, the big days status it."
+01:26:51,01:26:54, Is it making sense for you want.
+01:26:58,01:27:00," Any questions, yes."
+01:27:05,01:27:06, yeah any questions anyone.
+01:27:12,01:27:15, i'm assuming everybody's aware it's understood.
+01:27:17,01:27:20, So central limit theorem okay this theater.
+01:27:24,01:27:36," is basically coming to a conclusion, saying that the distribution of the sample statistic right the distribution of sample statistics will be not."
+01:27:42,01:27:47, Irrespective of whether the data that we are getting the population data that we're getting is normal or not.
+01:27:49,01:27:50, Okay.
+01:27:52,01:28:01, So that's basically your central limit theorem and the calculations for the random data that we're talking about is this first moment and second moment.
+01:28:01,01:28:10," The second moment is also Congress standard error of me, because we are trying to calculate menier so we sent a standard deviation of me."
+01:28:15,01:28:17, is nothing but the difference.
+01:28:20,01:28:21," Here, that we are speaking about is the."
+01:28:23,01:28:23, difference.
+01:28:25,01:28:29," Okay, on an average, what is the edit that descended."
+01:28:35,01:28:45, yeah now standard error is nothing but standard deviation on Defense is just that in standard deviation they are looking at individual data.
+01:28:49,01:28:53," Basically, looking at X one X two X three so on so forth."
+01:28:56,01:29:00, Whereas standard error is the average.
+01:29:01,01:29:03, That we have calculated.
+01:29:04,01:29:14, This is the red sample me so standard error is talking about variation in these means sample means with respect to.
+01:29:20,01:29:25," very, very important central limit theorem studied try to digest it by how to remember it."
+01:29:26,01:29:27, Great it's just like to table.
+01:29:29,01:29:29, Okay.
+01:29:33,01:29:35, Okay now.
+01:29:38,01:29:45, Using this concept will try to implement a logic try to implement concept on not doing inferential statistics.
+01:29:46,01:29:47, No.
+01:29:48,01:29:49, yeah before that.
+01:29:52,01:29:56, What does the probability of today's temperature being 20 degrees.
+01:29:59,01:30:01," it's coordinates, at least in hyderabad it is cold."
+01:30:03,01:30:09," So if I say to this temperature is 20 degrees, because it is continuous the probabilities equal to zero right."
+01:30:11,01:30:19, right because it's a continuous skin temperature is a continuous to finding exactly one value.
+01:30:21,01:30:23, Which is 20 degrees is zero.
+01:30:26,01:30:26, Right.
+01:30:28,01:30:37," So how about taking a range, which is minus 5200."
+01:30:39,01:30:45, So what what we are basically saying is if this is your continuous access temperature could be.
+01:30:46,01:30:47, 20 degrees.
+01:30:49,01:30:51, The same temperature could be 20 degrees.
+01:30:54,01:30:54, yeah.
+01:30:58,01:31:00, If it is 20 degrees.
+01:31:01,01:31:04, Then getting exactly that value is zero.
+01:31:05,01:31:05, But.
+01:31:06,01:31:12, I can say that the temperature could be minus 50 degrees 200 degrees.
+01:31:14,01:31:14, Right.
+01:31:18,01:31:23, Can can be temperature tomorrow be between minus 50 degrees 200 degrees.
+01:31:32,01:31:33, yeah.
+01:31:33,01:31:40," Mobility still be zero, and I said, because it is a continuous can we cannot actually 10 that."
+01:31:41,01:31:45," No, no, no that's what we calculated la area under the curve, it is not."
+01:31:46,01:31:49," Okay okay Okay, so you had a another call concept comes up."
+01:31:50,01:31:53, Exactly by by because i'm saying minus 5200 degrees.
+01:31:53,01:31:54, Right okay.
+01:31:55,01:32:10," So whenever there's a particular interval only then we can actually use this formula it's like because previously, you have just given up what are they going to value right like if it is about six at that we can qualify them for the exam so."
+01:32:12,01:32:12, When you say.
+01:32:12,01:32:18," about six add we were basically talking about the range, which is extended to succeed."
+01:32:18,01:32:19, Okay okay.
+01:32:20,01:32:23," Oh, there is a range here so area comes into picture."
+01:32:23,01:32:29, Okay what's the least value will be take OK OK.
+01:32:29,01:32:33," So it's like wherever only if there's a range specified, only then we can use this particular."
+01:32:34,01:32:35," Otherwise, you can discover this."
+01:32:35,01:32:38, Know whenever there is a continuous data.
+01:32:39,01:32:39, Okay okay.
+01:32:40,01:32:47, Then we look into this range calibration if it is discrete I know that there are probably fixed value.
+01:32:48,01:32:57," Yes, yes, so it's like if they give like on your particular value like you know what is the probability of temperature being 20 degrees then it's like obviously zero but."
+01:32:57,01:33:04," Like when they give a range anywhere if there's a continuous data and there's a range, we can estimate it using confidence interval."
+01:33:04,01:33:07, hey yes area under the gun.
+01:33:08,01:33:09," Yes, yes."
+01:33:11,01:33:11, But.
+01:33:12,01:33:19, Should I say minus 50 degrees 200 degrees tomorrow's temperature can be anywhere between minus 50 degrees 200 things.
+01:33:21,01:33:21, Can I say that.
+01:33:23,01:33:25, It is still difficult to estimate monster.
+01:33:27,01:33:36," But that is the estimation and telling cheatham you're asking me what was the temperature going to be like, so I am saying that tomorrow it will be between minus 50 degrees 200 tickets."
+01:33:37,01:33:44," anyways anywhere in that range, whatever the value that might be, it will be there between minus 50 degrees 200."
+01:33:46,01:33:54," Okay, because it is temperature like a via because, obviously, like the temperature may not be like soul, or so high, but."
+01:33:55,01:34:08," it's like if suppose it when you consider the concept of Marks like let's take on demand, so you trade if we can make, even if you say that you may score between at 200 marks also the probability maybe zero like I may not."
+01:34:09,01:34:10, Maybe 200.
+01:34:10,01:34:20," OK, so my question is now giving the example of marks, I want to predict what marks been stretched now score if I conduct an exam yes."
+01:34:22,01:34:25, So I can say she can score anywhere between 02 hundred.
+01:34:26,01:34:30," or 500 is a maximum and zero, and it is obviously between 02."
+01:34:31,01:34:32, yeah so.
+01:34:32,01:34:33, i'm trying to predict.
+01:34:34,01:34:41, Okay okay you're asking me to predict MC rationale can score marks anywhere between 02 hundred degrees so 100 bucks.
+01:34:41,01:34:49," Okay, what is difficult, like like you cannot say that 60 to 80 or 8200, then that will like still the probability will be zero in that case even."
+01:34:49,01:34:56," During exactly, but my question again understand the question my question you see you're interested in learning."
+01:34:57,01:35:10," You are asking me that if I write an exam now right i'm not sure, no, no i'm asking up but i'm saying that hey tomorrow, I have an exam, can you tell me well how much would I score."
+01:35:13,01:35:20," Then, so what is that you're interested in, are you interested in telling me, I mean hearing that the answer could be anywhere between 02 hundred months."
+01:35:21,01:35:25," know that is obvious right, you also know it, why do you need to ask anyone."
+01:35:26,01:35:27,Yes.
+01:35:28,01:35:45," But then when you are asking this you want to get a precise value probably want to hear exact marks at marks you're going to get at marks for sure you want to listen, this number but probability of that single number is always zero if data is continuous."
+01:35:46,01:35:47," Yes, yes okay."
+01:35:48,01:35:51, So you cannot give a single number.
+01:35:52,01:35:52, Okay.
+01:35:52,01:35:56, The same time I cannot give the complete range.
+01:35:58,01:35:58, Okay.
+01:35:59,01:36:07, right if I say if my my day town lies between zero to one okay my total data lies between 02 right okay.
+01:36:08,01:36:09," So, if this is my range."
+01:36:11,01:36:14, What will be the area under the curve for this rich.
+01:36:17,01:36:17,Okay.
+01:36:19,01:36:20, If you under the covers how much.
+01:36:21,01:36:21, one.
+01:36:21,01:36:25, Between the 100% obviously I know.
+01:36:26,01:36:32," Yes, that record is going to score marks between 02 hundred that is for sure hundred percent."
+01:36:32,01:36:33, He is.
+01:36:34,01:36:41," Right, but I want to listen to more practically acceptable results."
+01:36:42,01:36:43, So maybe.
+01:36:43,01:36:56," I want, if i'm reading I want to hear that the Max could be somewhere between 70 to 80 or 80 to 90 or whatever, that is."
+01:36:58,01:37:01, This portion is what you will be interested in.
+01:37:01,01:37:02,"Yes, yes."
+01:37:03,01:37:06, So the chance that you have.
+01:37:08,01:37:11, Right to get marks should lie in this range.
+01:37:12,01:37:12,Okay.
+01:37:14,01:37:15," Okay, I get it so."
+01:37:16,01:37:24," The prediction that I am doing to you cannot be having such a wide range, because there is no point doing prediction is that."
+01:37:26,01:37:27, it's covering the entire range.
+01:37:27,01:37:31," Yes, yes, so that was my question like minus on it like."
+01:37:33,01:37:35," Obviously, the maximum we between 02 hundred right."
+01:37:36,01:37:45," yeah exactly that that's where i'm coming right, so the the prediction that you're trying to do, should be more closer."
+01:37:45,01:37:46, To the actual that you.
+01:37:46,01:37:47, That means.
+01:37:48,01:37:51, That means that you're speaking about should reduce.
+01:37:52,01:37:57," Okay, the rain should reduce it should get closer and closer to the single value per parameter."
+01:37:59,01:38:00, But now.
+01:38:01,01:38:02, If I say.
+01:38:03,01:38:07, that's not has a chance of scoring anywhere from 30 to.
+01:38:08,01:38:08, 90.
+01:38:10,01:38:12, i'm doing the prediction okay.
+01:38:14,01:38:20, i'm saying that don't worry about right the exam you'll have a chance of scoring marks between 30 to 90.
+01:38:22,01:38:23, Compared to.
+01:38:24,01:38:28, i'm saying that you have a chance of scoring somewhere from night 75 to 90.
+01:38:31,01:38:33, When I am trying to do the prediction.
+01:38:34,01:38:36, or let's say you are doing the prediction to me.
+01:38:38,01:38:42, Okay i'm asking you the question and you're coming up with the predictions.
+01:38:43,01:38:47, option one is this option two is this.
+01:38:48,01:38:50, In each of these two cases.
+01:38:51,01:38:53, You have more confidence.
+01:38:54,01:38:55, That when you.
+01:38:55,01:39:00," have been different because it's only a range of 20 right so at least range, it has."
+01:39:02,01:39:06, Like that's a more precise answer if you're looking for a precise answer.
+01:39:07,01:39:09, But what does the chance that you're going to be correct.
+01:39:10,01:39:13, The chance is very less chances with that because.
+01:39:13,01:39:15, Your confidence is will come down a.
+01:39:15,01:39:17," Yes, definitely yes, yes."
+01:39:17,01:39:24, So Mike what my question was your confidence when you are trying to tell these results to your clients.
+01:39:26,01:39:26, well.
+01:39:26,01:39:29, Your confidence also reduces with the range.
+01:39:32,01:39:33, Okay.
+01:39:34,01:39:35, Right yes.
+01:39:36,01:39:49," So you cannot be giving a full range wide range, at the same time, you cannot be giving a range, which is too short, where your confidence is going."
+01:39:49,01:39:49, To come.
+01:39:52,01:39:52,Okay.
+01:39:53,01:39:54, Right.
+01:39:56,01:39:57, So you need to have.
+01:40:00,01:40:01, A balanced approach.
+01:40:02,01:40:02, Okay.
+01:40:04,01:40:06, This calculations.
+01:40:06,01:40:06, That we're trying to.
+01:40:07,01:40:11, Look at is called as confidence interval because you're giving some interval.
+01:40:13,01:40:17, And that interval should also be having some confidence associated with it.
+01:40:18,01:40:24, So tomorrow's temperature could be 20 degrees to 40 degrees 10 degrees to 15 weeks.
+01:40:26,01:40:29, Confidence in this result will be more.
+01:40:31,01:40:39, Your confidence when you are predicting the results in wider range will be more because the chance of the actual value falling in this range is more.
+01:40:41,01:40:47," isn't it if this is the area under the bell curve i'm trying bell curve, because these are continuous values that were speaking about."
+01:40:49,01:40:52," Right alright, so this is continuous one yo."
+01:40:53,01:40:56, If I see 20 degrees to 40 degrees.
+01:40:58,01:41:01, Then tomorrow's temperature actually being in this range.
+01:41:04,01:41:08, will be less right probability associated with this range is less.
+01:41:09,01:41:09,Yes.
+01:41:11,01:41:18," But if I say 10 degrees to 50 degrees, the probability of the value falling in this range increases."
+01:41:20,01:41:23, So that means the prediction that i'm doing has more chance of being correct.
+01:41:26,01:41:28," Right, hence it scholars confidence interval."
+01:41:32,01:41:37, So let us see how how to actually do the calculation and how do we actually interpret this.
+01:41:42,01:41:46, So a bank with hundred thousand customers.
+01:41:47,01:41:52," There is a bank financial institution, and it has hundred thousand customers."
+01:41:55,01:41:56, And they're offering.
+01:41:57,01:42:01, That thinking to offer credit card to its customers.
+01:42:03,01:42:06, Okay they're planning to give credit cards.
+01:42:07,01:42:11, But giving credit card means there is a lot of investment also involved isn't it.
+01:42:16,01:42:28," And the any business right in this case, credit card business the profitability of this option or this business opportunity is going to be."
+01:42:29,01:42:40," Depending on what is the total balance that the customers are maintaining because credit cards, if you talk about credits credits are given."
+01:42:42,01:42:48," That, if you have money, it has a bank if Bank does not have money, how can it give credits."
+01:42:51,01:42:58, How does bank to get money by the savings account by the deposits.
+01:42:59,01:43:08, that the individual customers are aggregated all the result will be the capital investment for being the giving the credit cards or credit systems.
+01:43:10,01:43:12, So profitability of the card.
+01:43:13,01:43:16, will depend on how much money.
+01:43:17,01:43:25, Does that bank has that money is based on the average balance that the card holders are make the customers are Nick.
+01:43:28,01:43:29, Right.
+01:43:30,01:43:42, Know should I go ahead and launch the credit card design business head and deciding to come up with this option should I directly launched the credit card land for everybody.
+01:43:48,01:43:50, What hadn't been blessed yeah not every.
+01:43:52,01:43:59," Now, we should not blindly invest in any business, not just credit card business any business idea, you have should you directly jump in invest money."
+01:44:00,01:44:07," Or do you do preliminary analysis, research on whether the idea will work or."
+01:44:11,01:44:13, Definitely will do research before.
+01:44:15,01:44:16, Implementing anything.
+01:44:16,01:44:20, Exactly hey so any investment that you have to do you have to be careful.
+01:44:21,01:44:27," So blindly investing and then assessing whether it will work or not is a foolish decision, you should not be doing that."
+01:44:28,01:44:32, What if it doesn't work all your investment is gone for us isn't it.
+01:44:33,01:44:36, So you're going to look out for.
+01:44:37,01:44:40, The option on should I invest.
+01:44:41,01:44:49," For that, first, you need to do an assessment of the idea here the credit card launches an idea and we are trying to research assistant."
+01:44:51,01:44:56," To do that, we are trying to do a pilot lunch."
+01:44:57,01:44:59, We generally do pilot lunches.
+01:45:01,01:45:08," Much market research campaign is launched, and then we using that right credit Karma banks set up these."
+01:45:09,01:45:12," cans, the temporary."
+01:45:13,01:45:23," What do you want the stalls and they try to read give pamphlets and try to ask customers about different things, and all that so on the similar lines, a market campaigns run."
+01:45:25,01:45:28," And people who are interested, for them, these credit cards will keep."
+01:45:30,01:45:33, So 140 customers accept the car.
+01:45:35,01:45:45," right when they were launching in the marketing campaign probably 500 different customers came up, but only 140 customers accepted among all the customers that back."
+01:45:47,01:45:56," Okay, so this becomes your pilot launch you're given this credit card to their customers and whenever you have credit card."
+01:45:57,01:45:58, Right.
+01:45:59,01:46:05," If you invest in current if you have a credit card, we always try to use the credit card."
+01:46:07,01:46:11, right we don't directly use our bank account.
+01:46:12,01:46:14, Savings account debit cards.
+01:46:16,01:46:17," Right, we will use credit cards."
+01:46:19,01:46:21, So that means the average balance.
+01:46:22,01:46:24, That we maintain will be a little higher.
+01:46:26,01:46:28," Right, so we are trying to see."
+01:46:30,01:46:32, What is the average balance.
+01:46:33,01:46:47, That the customers these 140 customers are going to maintain because profitability is directly proportionate to the balance that right so market research campaign is launched in which about 140 customers accept the card as a pilot.
+01:46:51,01:46:54," Now, when we invested this."
+01:46:55,01:47:03, date when we invested the on on these campaign launch the idea is to gather the data and then assess this is your sample.
+01:47:06,01:47:09," They were doing inferential statistics here, this is sample."
+01:47:11,01:47:13, But as this is your population.
+01:47:15,01:47:15, OK.
+01:47:20,01:47:31, So the data that we gathered is like the average balance maintained by these 140 is 90 $90 the standard deviation so much and we're also saying assume the population standard is so.
+01:47:33,01:47:36," Now, given the sample data."
+01:47:38,01:47:48," We have to identify how much would be the average balance if the card is given to all the customers hundred thousand customers, what will be the average fan."
+01:47:50,01:47:54, Okay let's let's see what what all things we have and what is that would be to calibrate.
+01:47:56,01:48:03, So i'm writing the notation yes symbols hundred thousand is your population size.
+01:48:04,01:48:06, sample size is one for.
+01:48:09,01:48:17," Right now, this 19 $90 that we are looking at is actually represented as X bar."
+01:48:18,01:48:19, This is X bar.
+01:48:21,01:48:31," Right, because they are talking about these 140 customers it's a sample data right so expert then $2,833."
+01:48:33,01:48:37, This is represented as smallest standard deviation of the sampling.
+01:48:38,01:48:43, assume that the population standard deviation population standard deviation is Sigma.
+01:48:44,01:48:47, assume that the population standard deviation is.
+01:48:49,01:48:50, 2005 that done.
+01:48:53,01:49:01, So these values are given to us and we say what can we say about average balance that will be held after a full fledged market.
+01:49:02,01:49:12," That meets this is the full fledge market lunch, what will be the average balance for this, so it is population parameter, and this is what we need to identify."
+01:49:17,01:49:18, What is our view.
+01:49:20,01:49:21, yeah.
+01:49:34,01:49:35, Difference what will be the mean.
+01:49:41,01:49:42, Should I say.
+01:49:42,01:49:44, it's been inferential statistics.
+01:49:44,01:49:45, We will be.
+01:49:48,01:49:49, Like we should know like Mina.
+01:49:51,01:49:54, And to be liked by Mr Sam more than.
+01:49:54,01:49:56, Later yeah.
+01:49:58,01:49:59,Okay.
+01:50:02,01:50:05," So, are you saying that we will be doing multiple market lunches."
+01:50:09,01:50:15," Like at least, we need the data like only one samples me, maybe I think we cannot get the population."
+01:50:16,01:50:19," No, no, no, no, you will be always working with one sample only."
+01:50:21,01:50:26, See practically do you want to launch this multiple times.
+01:50:26,01:50:27, know you.
+01:50:28,01:50:29," Basically, you want more data."
+01:50:30,01:50:36," yeah but you cannot just doing this, you cannot just keep doing this and not take a business decision."
+01:50:38,01:50:42," Any scenario, you will only be working with single sample next."
+01:50:46,01:50:47, yeah so let me.
+01:50:48,01:50:49, Talk about this now.
+01:50:49,01:50:52, See we're talking about central limit theorem.
+01:50:54,01:50:55, Central limit theorem says that.
+01:50:57,01:51:05, The statistic value that we are get actually doing the calculation for a price calculation is a.
+01:51:06,01:51:09, Continuous value the statistic.
+01:51:11,01:51:20," is always a continuous map and if it is continuous, it will be normally distributed and if it is normally distributed a certain properties."
+01:51:23,01:51:23,Okay.
+01:51:25,01:51:31, And we are interested in finding out a single value of this normally distributed data.
+01:51:33,01:51:48," But when I tried to do this in the value calculation, it will be zero property would be zero right hands, we take range, but if I take range, I cannot take the full range I have we appreciate you taking the rich, these are the discussions that we have right."
+01:51:50,01:51:53, Now let me ask you a very simple question okay.
+01:51:54,01:52:02, you're you're traveling to offices right probably you have started traveling to offices Now the question is how much time.
+01:52:03,01:52:06, Will you take to travel in.
+01:52:09,01:52:11, Time to travel from.
+01:52:13,01:52:14, Your home to office.
+01:52:16,01:52:19," yeah but, what is your answer is."
+01:52:23,01:52:29," going to be in some ways, like 20 minutes to 30 minutes, if not the participants depending on."
+01:52:30,01:52:35, Depending on that traffic so you're saying 20 to 30 okay.
+01:52:37,01:52:38, yeah there's.
+01:52:40,01:52:40, Everybody will.
+01:52:40,01:52:41, might want to write.
+01:52:42,01:52:43, share your answer.
+01:52:48,01:52:53, It also depends on a mode of travel right like if you're going by metro and probably take less time away.
+01:52:53,01:52:54, Whatever it is.
+01:52:54,01:53:00, i'm not worried about all that i'm just asking you to tell me what is the time travel that you basically.
+01:53:00,01:53:06, It would be an arranger Nice are obviously so 40 minutes to 60 minutes 40 minutes to 60.
+01:53:07,01:53:09, Okay you're saying 40 to 60 okay.
+01:53:12,01:53:14, Assuming you're traveling only by one mode of transport.
+01:53:14,01:53:15, The respect to whatever.
+01:53:18,01:53:20," Oh, my number two one enough or."
+01:53:25,01:53:26, If I have to convert that you two.
+01:53:27,01:53:32," minutes, then I would probably say 60 minutes to 90 minutes."
+01:53:33,01:53:37," That do you do 40 somebody saying 30 to 40 Okay, my question to you all."
+01:53:40,01:53:52," Right 60 to 90 minutes or why 20 to 30 minutes or white 30 to 40 or 40 to 60 days for in your respective cases, why not this 25 to."
+01:53:53,01:53:53,30.
+01:53:55,01:53:55, like this.
+01:53:57,01:53:57, With.
+01:53:58,01:54:07," 10 to nine, irrespective of the case i'm talking about let's say, if you are cases in your office or home or fixed distances right I don't think it will change."
+01:54:07,01:54:10," The word for permission has different distance, for me it is."
+01:54:10,01:54:14, done i'm not talking more pernicious i'm talking only about your case you said 20 to 30.
+01:54:15,01:54:18," So, for your case i'm asking why 20 to 30 is."
+01:54:18,01:54:24," Your answer, why not 10 to 14 or why not 25 to 30."
+01:54:25,01:54:27, Why do you do take 10 minutes interval.
+01:54:29,01:54:31, Why not 30 minute interval or why not five minutes.
+01:54:33,01:54:43," minimum and maximum time like I would have ever taken the least amount of ever taken to travel, what is 20 minutes in the maximum time I would have taken in wants to travel with is 13."
+01:54:43,01:54:44," Now, how."
+01:54:44,01:54:45, Are you conclusion that.
+01:54:45,01:54:47," My question is, how are you, including."
+01:54:50,01:54:58," Are you sure, basically, whatever the title travel time that you had to know the experience that till now is your sample data."
+01:54:59,01:54:59," Yes, yes."
+01:55:00,01:55:03, Are you sure you're going not going beyond 30 minutes in future.
+01:55:05,01:55:06, populations.
+01:55:08,01:55:12," We can see this more probability of the time being, between 20 to 30 minutes what."
+01:55:12,01:55:13, Is that is a.
+01:55:13,01:55:15, yeah what is what up there is an accident on the road.
+01:55:17,01:55:17, yeah.
+01:55:18,01:55:19, Yes.
+01:55:20,01:55:21, Then it will vary.
+01:55:22,01:55:26," Yes, sample data from your past experiences only they're talking about all."
+01:55:26,01:55:29," This, but I want to also consider the."
+01:55:30,01:55:33, confidence that that you are coming up with this scenario.
+01:55:35,01:55:35,Right.
+01:55:37,01:55:41," If you say 25 to 30 minutes, maybe."
+01:55:42,01:55:48, There are there will be cases where you're going to reach beyond I mean you're going to take beyond 20 minutes sorry.
+01:55:49,01:55:50, 30 minutes.
+01:55:51,01:55:52," Sorry, my office."
+01:55:53,01:56:02," Several guys, he said, the as the rage increases, then the confidence levels also increased when the range is smaller than the confidence levels also will be lesser right."
+01:56:02,01:56:06," yeah that's what i'm trying to explain, yes, if I see 25 to 30 million you."
+01:56:06,01:56:08, can say 25 to 30 minutes.
+01:56:09,01:56:13," There are chances where you might reach office, the late."
+01:56:14,01:56:21, More than 30 minutes are there might be cases where you're going to reach office early before 25 minutes.
+01:56:24,01:56:28, Right so chance of going wrong will increase.
+01:56:30,01:56:33," Right, whereas here the chance of going wrong is less."
+01:56:35,01:56:38," Compared to this, the chance of going wrong is less here right."
+01:56:42,01:56:51," So whatever we are we're basically talking about it, so if you're saying 20 to 30 minutes, I mean i'm only talking about one example Okay, you said 20 to 30."
+01:56:52,01:56:58, This could be 25 and we basically just 25 plus or minus five.
+01:57:01,01:57:01, Right hey.
+01:57:03,01:57:06," it's in the first place, why 20 to 30, why not some other than."
+01:57:08,01:57:10, This is because of your.
+01:57:11,01:57:13, Experience sample data.
+01:57:15,01:57:17, And this is with respect to your Conference.
+01:57:18,01:57:22, If you want to be more conflict say i'm your manager and if i'm asking you this question.
+01:57:24,01:57:35," Right, you need to give more chance to yourself, so that you reach that office begin the time right, so in that case you probably say 10 minutes."
+01:57:38,01:57:42," Right, because the scope that you are getting now will increase."
+01:57:43,01:57:59," She will be more confident when you are representing this number isn't it, she will say 15 minutes to 35 minutes, whereas if you say 25 plus or minus five minutes, that means you're only given 20 minutes 30 minutes range for yourself."
+01:58:01,01:58:02, Okay.
+01:58:04,01:58:04, yeah.
+01:58:04,01:58:06,Everyone making sense right.
+01:58:18,01:58:18, Yes.
+01:58:19,01:58:20, it's making sense of.
+01:58:29,01:58:30, confidence.
+01:58:31,01:58:32, 30 confidence.
+01:58:33,01:58:37," That, if the range is more like ranges more white than on the ball."
+01:58:38,01:58:42," Obviously, yes, because the chance of your value falling in that range increases."
+01:58:46,01:58:55," That, but if they go the minimum and maximum mistaken I Canna marks case you have begun like 02 hundred then there it's be like hundred percent confidence if the complete range is taken."
+01:58:56,01:58:57," Yes, yeah."
+01:58:58,01:59:05," So there is no chance you're going wrong, say, the actual value can live between this marks."
+01:59:07,01:59:08,Yes.
+01:59:09,01:59:09, So there is.
+01:59:13,01:59:14,"Some confidence, maybe."
+01:59:15,01:59:16, that's what i'm saying.
+01:59:18,01:59:18, Okay.
+01:59:22,01:59:33, So when the actual result comes let's look at this so i'm basically saying 02 hundred 200 bucks you write the exam you get tourism you'll get some dessert.
+01:59:34,01:59:35, Right.
+01:59:36,01:59:39, That is what we were trying to predict in the initial case.
+01:59:40,01:59:47," Yes, now that result will be in this range on the right, yes, so that means whatever I predicted is correct."
+01:59:50,01:59:51, But if I see.
+01:59:53,01:59:58, let's say 50 marks to say 50 to 80 bucks.
+02:00:00,02:00:02," Okay, my range is now 50 to 80 bucks."
+02:00:03,02:00:19," If this is the case when you write the exam there is always a chance that you have got more marks, whatever it is, at point one, two or 85 or 90 whatever, but there is still a chance that you might score more marks."
+02:00:22,02:00:25," Right, are there is a chance that you might get less than 15 months."
+02:00:27,02:00:31," If you have scored a mark, which is like 85 is my prediction correct."
+02:00:34,02:00:36, No definitely so.
+02:00:36,02:00:41," I will not have the same confidence, where I have at this stage."
+02:00:45,02:00:50, 02 hundred percent i'll have 100% confident hundred percent sure that the result is.
+02:00:51,02:00:53," going to fall industry, but here it is not."
+02:00:54,02:01:08," that's that's what you're trying to understand now just imagine whatever i'm talking about just imagine on a range like this, this is your continuous scale okay X axis i'm saying 02 hundred."
+02:01:09,02:01:13, That means you're all the values will fall here on.
+02:01:15,02:01:15, Correct.
+02:01:16,02:01:20, area under the curve is hundred percent one.
+02:01:22,02:01:26, So any result that you're calculating will be in this accepted region hundred percent region.
+02:01:28,02:01:29, But if I see.
+02:01:30,02:01:31, 50 to 80.
+02:01:33,02:01:35, So 52 let's say at.
+02:01:37,02:01:39, This blue lines would be my range.
+02:01:43,02:01:52," And if the actual value falls within this range, only then i'm correct my prediction is that the left side and writes it portion."
+02:01:53,02:01:53, Is.
+02:01:55,02:02:03," The chance, where you're going wrong, these are if these values are falling on your mark is falling, with this then your prediction is wrong."
+02:02:05,02:02:05, Right.
+02:02:06,02:02:18," This so the chance, you have the confidence you have we diminish that chance or confidence is measured using this area."
+02:02:23,02:02:29," i'm just trying to bring up the same point again and again and again and again, because you need to understand the concept here."
+02:02:31,02:02:40, Now now now the coming back to this scenario credit cards in there you'll see the visualization also if you see this scenario.
+02:02:41,02:02:45, Can I see based on my sample.
+02:02:47,02:02:49, A single sample that we have taken.
+02:02:50,02:02:51, which takes 1990.
+02:02:53,02:02:53, Right.
+02:02:54,02:02:57, If we consider this as the result.
+02:02:59,02:02:59, Then.
+02:03:01,02:03:03, This may be not hundred percent correct.
+02:03:05,02:03:06, Why because.
+02:03:07,02:03:10, If my underlying sample very let's say.
+02:03:11,02:03:15," assume you're not doing this, but assume if you have that."
+02:03:17,02:03:22," Under samples in a different location, then your data would have been changed."
+02:03:24,02:03:28," Based on the locality, you might have a different set of customers."
+02:03:30,02:03:35, Right coming into the marketing campaign and different set of 140 people might come into picture right.
+02:03:37,02:03:41," In those different people are coming, then their bank balances will be different."
+02:03:42,02:03:46," And their usage will be different, so do you not get the same number isn't it."
+02:03:48,02:03:54," So there is a lot of uncertainty, because your samples can be."
+02:03:55,02:04:05," Right, so we don't consider or we don't trust, a single calculation also single point if I do the calculation does."
+02:04:06,02:04:12," Property Z so considering both these concepts, we are coming up with a range."
+02:04:14,02:04:17, As an answer that range is called us confidence interval.
+02:04:19,02:04:26, That confidence interval basically is calculated us point estimate plus or minus margin margin of error.
+02:04:31,02:04:32, Point estimate.
+02:04:33,02:04:36, Is your sample statistic.
+02:04:40,02:04:46, sample statistic margin of error is the variation that we have within that.
+02:04:48,02:04:54, sounds I mean if I have in the central limit theorem we discussed all this right.
+02:04:56,02:04:59, If I have multiple sample statistic sample means.
+02:05:01,02:05:04, Then first movement of this random variable.
+02:05:06,02:05:11," will be population parameter, but if I look into the second moment."
+02:05:13,02:05:19, Second moment is the variation in this data with respect to him is calculated Sigma squared off.
+02:05:23,02:05:25, Okay scary Sigma pi squared.
+02:05:31,02:05:36," Right, but again, if I further expand this."
+02:05:37,02:05:51," The variations can basically influence the confidence Okay, so the margin of error that we are talking about is associated with the confidence level."
+02:05:53,02:05:55, Get the score less confidence level.
+02:05:57,02:05:58, Confidence values.
+02:06:00,02:06:03, So X bar is your point estimate.
+02:06:06,02:06:08, Right and that X bar.
+02:06:09,02:06:13, is also getting married by so much.
+02:06:17,02:06:25, The zoom we are taking Z because we are talking about statistic being right normally distributed so we're comparing it with the values are.
+02:06:27,02:06:29," So, to get the range we're looking at zebra."
+02:06:31,02:06:35," Now, this one minus alpha that you're seeing is called us confidence level."
+02:06:37,02:06:40, Right and alpha is called us significance live.
+02:06:45,02:06:50, i'm going various you know i'm trying to bring out all those right aspects that you that are mandatory for us.
+02:06:51,02:06:54," To understand any questions, please ask me."
+02:06:55,02:06:56, Do not hesitate minority.
+02:07:00,02:07:05," So alpha is representing significance level, this is nothing by."
+02:07:06,02:07:07, The error push.
+02:07:10,02:07:12, chance off.
+02:07:13,02:07:13, era.
+02:07:16,02:07:21, The industry right in athletics stream or in business scenarios.
+02:07:23,02:07:26, Whenever we want to try to do the predictions.
+02:07:27,02:07:34," Right, the predictions are, by default, always our band, assuming that we are 95% correct."
+02:07:38,02:07:38, Okay.
+02:07:43,02:07:52," So this is called as 95% confidence level if I use that 95% confidence level, I will get confidence interval."
+02:07:55,02:07:56," That means, if this is my."
+02:07:58,02:08:03, Go bunker i'm saying that i'm 95% correct.
+02:08:05,02:08:08, me this is the portion where your data force.
+02:08:09,02:08:13," You still have chance of going wrong, but that is very little."
+02:08:14,02:08:22," Right, so now, what is this value if I know that on Z, then the calibration can that."
+02:08:23,02:08:25, So how do we get this value.
+02:08:26,02:08:40, To look at this I have X bar 19 $90 I have Sigma 2833 This is one for T squared off and small sample sample sizes 140.
+02:08:41,02:08:42, Right.
+02:08:43,02:08:52," This is the portion where I need to do the math now and to get to as well, if I can get that, then I can calculate the confidence."
+02:08:54,02:08:56, So industrial standard is.
+02:08:56,02:08:59," 95%, so we will assume that apartment is our first."
+02:08:59,02:09:00,95.
+02:09:01,02:09:07, So that means I know the area under the curve.
+02:09:08,02:09:13, But what are these values which gives us that area is something that we have to find out.
+02:09:15,02:09:16, about the rain would be very wide.
+02:09:18,02:09:19, By.
+02:09:20,02:09:27, Like if we take 95% like it's like predicting the mass will be between 20 and 99.
+02:09:29,02:09:33, Because you're talking about distribution of the data we don't know what our values are you fall.
+02:09:35,02:09:51," Yes, right so range may or may not be that big we don't know, and it was the shape of the car remember the normal distribution shape of the car is influencing all these things, what if your shape is like this."
+02:09:54,02:09:56, yeah this is Max assume this is your marks.
+02:09:59,02:10:07," yeah yes, so in that case only limited little portion of data is going to fall in the stadium majority is going to fall here."
+02:10:08,02:10:09, But what if I have.
+02:10:10,02:10:11, This case.
+02:10:14,02:10:16, Then yeah you can see that right.
+02:10:17,02:10:21, Good amount of data falling in this significance region as well.
+02:10:22,02:10:24, So it's all about the distribution of the data.
+02:10:25,02:10:25, Okay.
+02:10:28,02:10:28, So.
+02:10:28,02:10:30,Coming back to this discussion.
+02:10:31,02:10:34, Reno know area under the curve.
+02:10:36,02:10:38," Okay, we know the area under the curve."
+02:10:40,02:10:48," But what we want, we want this values right if it is Z then i'll put Z here."
+02:10:49,02:10:50, have to be with us to be.
+02:10:52,02:11:11," Z the Center will always be zero so this becomes minus Z because Z is standard normal distribution, which is perfectly symmetric and if this is zero this is he then this minus this will be minus end it is symmetric shape right, so it has to be minus."
+02:11:15,02:11:16, So that's about your.
+02:11:17,02:11:24," confidence, but if I consider this this shaded portion is 95%."
+02:11:26,02:11:31, That means 0.9%.
+02:11:37,02:11:38, Right.
+02:11:40,02:11:49," Now I want to identify what is this the values, using the tables, because in the table, we have the calculations already ready."
+02:11:50,02:11:53, In the previous example on the gmat scores.
+02:11:55,02:12:03, We knew X and from that we calculated Z then we refer to the table to get the probability or area.
+02:12:05,02:12:08, But now I have this area or probability.
+02:12:10,02:12:16," And I have to move backwards, so I will get Z using the table."
+02:12:19,02:12:27," hey, but if you talk about the table the table will contain all the values from minimum to that particular batch."
+02:12:28,02:12:34," Right so here in order to identify this number, we will take the left side."
+02:12:36,02:12:36, Blue shutters.
+02:12:38,02:12:40, So this is what we are going to take.
+02:12:44,02:12:45, The blue shaded portion.
+02:12:53,02:13:01," What will be that shaded portion crusaded portion if I have to try it and more a good image, this is the image when she image."
+02:13:03,02:13:07, were saying that 95% confidence right so let's say this is.
+02:13:09,02:13:10, This is 90% okay.
+02:13:12,02:13:15, So that means from here to here it is 95.
+02:13:19,02:13:20,yeah.
+02:13:26,02:13:34," I need to know what will be this see this will be minus eight, this is, you know if I know this, I will be able to also know this because it is classy."
+02:13:37,02:13:41, yeah so Z table will always capture.
+02:13:42,02:13:44, The values which are from.
+02:13:45,02:13:54, left side value right it's always calculating the portion from lower minimum to that particular well.
+02:13:56,02:13:56, isn't it.
+02:14:01,02:14:03, So what is this portion.
+02:14:06,02:14:08, This is 95% So what will be this portion rates.
+02:14:11,02:14:14, mean minus four minus at my age standard deviation.
+02:14:14,02:14:18, whoa whoa whoa whoa no i'm talking about area under the curve shader ocean.
+02:14:20,02:14:21, Exactly.
+02:14:23,02:14:24,that's good.
+02:14:25,02:14:40, 2.5% why because they yeah and that discovers 95 that means total will be remaining 5% but Z symmetric so that 5% is getting further divided this is.
+02:14:41,02:14:42, To banter.
+02:14:43,02:14:46, This is corners alpha by two alpha by two.
+02:14:47,02:14:50," Okay, and this portion is called as one minus and."
+02:14:54,02:14:55, This is one man is that.
+02:14:59,02:15:09, If this is 2.5 percentage if I convert this into decimals what will be the result 0.0 to five right for.
+02:15:11,02:15:12, developer hundred I get 0.0.
+02:15:14,02:15:15, Correct.
+02:15:17,02:15:18, So we will go to.
+02:15:19,02:15:20, The table.
+02:15:26,02:15:28," I will search for the value, which is."
+02:15:29,02:15:34, This shaded portion which is 0.025 that gives me dizzy by.
+02:15:36,02:15:41, So if I look around the this table where will I have 0.025.
+02:15:45,02:15:55," I see some number, but this is 0.00 to five, that is not the value that we want, we want 0.025."
+02:15:59,02:16:13, This is occurring when my value is minus 1.96.
+02:16:17,02:16:18, yeah that means.
+02:16:21,02:16:23, This portion that we're talking about is.
+02:16:26,02:16:34, minus 1.968 if I remove this this becomes plus 1.96 and this becomes minus 1.6.
+02:16:39,02:16:39, Right.
+02:16:41,02:16:43,This is minus 1.96.
+02:16:45,02:16:51, This is plus 1.6 is this clear to everyone.
+02:17:00,02:17:00, Not.
+02:17:00,02:17:02, Everyone is done from is this clear.
+02:17:02,02:17:02,TV.
+02:17:09,02:17:11," Okay, I want you people to now."
+02:17:12,02:17:14, Do the calculation for.
+02:17:15,02:17:20, 90% and 99% also.
+02:17:34,02:17:37, Do the calibration ways for 90% first.
+02:18:07,02:18:08, done.
+02:18:47,02:18:48, what's up guys.
+02:19:14,02:19:16, That means it's not clear for you people still.
+02:19:16,02:19:23,1.644 90% 31.6 190.
+02:19:25,02:19:25," Okay, very good."
+02:19:56,02:20:07, Point 074 9931 07.
+02:20:14,02:20:20," So, can you please like once again explain, for 95% i'm just trying to figure out for 95."
+02:20:21,02:20:26, see whether it is 90% 95% or 99% we have.
+02:20:26,02:20:27, The area.
+02:20:29,02:20:41," Okay, under the bell curve ignore the area 90% in this example, it is 90% okay now I need to know what what Z values."
+02:20:42,02:20:45, We are getting this portion as 90%.
+02:20:46,02:20:51," Okay, where this is symmetrical curve, so it will be plus or minus Z."
+02:20:52,02:20:55, We are trying to figure out what is that plus or minus diva you.
+02:20:57,02:20:57, Okay.
+02:20:58,02:21:08," So for that, if I have to refer to the table the table always calculates only the left side portion of your bell shaped curve."
+02:21:10,02:21:11, Facility for calculations.
+02:21:12,02:21:17," Okay, so that means if I need to know what is this minus Z."
+02:21:19,02:21:22, Then I need to know what does this say that portion in the first.
+02:21:24,02:21:27," Okay, if this is 90%."
+02:21:27,02:21:28," Okay, this will be."
+02:21:28,02:21:30, The outside is 10%.
+02:21:32,02:21:33, yeah.
+02:21:33,02:21:34, This is your alpha.
+02:21:36,02:21:40, 90% is one minus alpha so alpha is 910 percent.
+02:21:41,02:21:46," Right, but this is only alpha by two this is alpha right."
+02:21:48,02:21:50, Right yes.
+02:21:51,02:22:03, This is alpha by two that means it's 5% 5% means in decimals what is the value 0.0505.
+02:22:04,02:22:08, So i'm going to refer to the 0.05 in the Z table.
+02:22:12,02:22:22, Where is my 0.0 0.05 0.05.
+02:22:24,02:22:33," Sorry, I do not have exactly 0.05, but I see that there is five units additional five units less."
+02:22:34,02:22:41, And that value is occurring at 1.64 at this Center averages average of these two.
+02:22:43,02:22:46, So this is going to give us plus or minus 1.64.
+02:22:48,02:22:48,Okay.
+02:22:50,02:22:50,OK so.
+02:22:53,02:22:59, now use the same logic try to do it for 99%.
+02:23:00,02:23:02, i'm getting my supervisor so.
+02:23:04,02:23:04,Could we.
+02:23:08,02:23:14, It is 99% 99.
+02:23:15,02:23:21, This becomes 1% that means this because point 5% That means there is another zero here.
+02:23:24,02:23:27, Are you looking at values with 0.005.
+02:23:29,02:23:36," Okay, so what is the value that you're getting 2.57 2.507."
+02:23:37,02:23:39,How sweet.
+02:23:41,02:23:43, 2.5.
+02:23:47,02:23:47, Okay.
+02:23:49,02:23:51, But it's not 0.005 right exactly.
+02:23:52,02:23:53,yeah.
+02:23:59,02:24:04, So this episode minus 2.575.
+02:24:06,02:24:08, Average of 70 and.
+02:24:08,02:24:12,82.757.
+02:24:13,02:24:23," Now this is plus or minus not just my best, because you might also want to see that right side, so does exactly cemetery so this busyness."
+02:24:25,02:24:28, That so we see the.
+02:24:29,02:24:30,data.
+02:24:35,02:24:42," yeah if you want to consider to the left side, we have to consider it as minus and to the right side, we have to consider it as plus yes."
+02:24:43,02:24:43,Yes.
+02:24:54,02:24:56, So this on to this 2157.
+02:24:59,02:25:05, This value is something that you have to buy heart plus or minus 1.96.
+02:25:08,02:25:09, Okay.
+02:25:13,02:25:15, Now let us go to the calculation.
+02:25:16,02:25:21, Calculations don't mind just a very simple calculation all these values are given.
+02:25:25,02:25:26, Right.
+02:25:27,02:25:39," So if I do Sigma squared, and this is that is that accurate in average is this the confidence interval or you can also call it as interval estimate is equal to."
+02:25:40,02:25:44, Point estimate plus or minus margin of error.
+02:25:46,02:26:00," Point estimate is the statistic that you have categorical in our case, it is expert plus or minus margin of error margin of error is basically taken a Z it's one minus alpha into Sigma squared off in."
+02:26:04,02:26:09," Red one minus alpha is called as confidence level, this is."
+02:26:10,02:26:13, main different presented this to to have to do that.
+02:26:15,02:26:20, The Z value is plus or minus 1.96 here we are saying.
+02:26:25,02:26:28, 1990 X bar.
+02:26:30,02:26:34, plus or minus Z has one minus alpha.
+02:26:37,02:26:39, To summarize what six.
+02:26:40,02:26:45, Sigma by Square and to 11.2 main.
+02:26:48,02:26:53, comma plus 1.96 into cooler and cooler.
+02:26:54,02:26:55, This is the range.
+02:26:57,02:27:02," If it has to be 90% confidence, confidence is decreasing right so."
+02:27:03,02:27:08, Your range will also decrease 1990 plus plus or minus my by.
+02:27:15,02:27:16, This is minus.
+02:27:18,02:27:30, 1.645 into to 11.29 comma 1990 plus 1.645 into to learn.
+02:27:32,02:27:42," This 6.1 foreign minus plus or minus 1.96 that we see that is the only value, which is changing in both these things and based on that change the range of luxury to."
+02:27:45,02:27:46, Get.
+02:27:54,02:27:55, your questions.
+02:28:06,02:28:07, Okay i'm assuming no questions.
+02:28:08,02:28:12," Like, we have to do this only after making the data into normal later."
+02:28:14,02:28:15, Absolutely.
+02:28:17,02:28:18, Data has to be normal.
+02:28:22,02:28:29, So we have to use the appropriate transformation technique and then make it normal and then apply this.
+02:28:30,02:28:31, In Python.
+02:28:31,02:28:32," Okay, yes, yes, yes."
+02:28:35,02:28:48," Now, whatever the languages that are a SAS based tool, whether it is our whether it's by them or any other tool that we, we probably might want to use this is the logic that you have to data has to be normal in order to interpret all this."
+02:28:49,02:28:55," location right, yes, so we will take a small break now."
+02:28:57,02:28:58, it's a 440.
+02:29:02,02:29:05, will connect at 448 eight minutes.
+02:29:06,02:29:12, not going under the break to another so yeah eight minutes just just come back in eight minutes guys.
+02:29:31,02:29:34, So there does seem to see.
+02:29:34,02:29:35, Someone oh.
+02:29:36,02:29:36, yeah good good.
+02:29:37,02:29:54," So in this case, actually, we want the population standard deviation but impractical impractical as like after getting like we after doing some one for the customer, so we can get a standard standard deviation for one last question oh so."
+02:29:55,02:30:00, yeah that that's the next concept punish will discuss that with me.
+02:30:02,02:30:02, Good good.
+02:30:03,02:30:04, Right analysis.
+02:30:05,02:30:09, that's one of the important point that we have to discuss.
+02:30:11,02:30:16," Okay, so before we go to that let's talk about the things that we discuss now."
+02:30:17,02:30:25, So confidence interval is basically nothing but that interval that we have to come up with for predictions.
+02:30:27,02:30:36, And this is basically done on let's say point estimate plus or minus the error that that we have because of the sampling variation.
+02:30:37,02:30:39, We call it a margin of it.
+02:30:40,02:30:49," So point estimate is nothing but the calculation that will be doing, because we will always work with a single sample on will not work with multiple templates or a single jump."
+02:30:50,02:30:58," So point estimate plus or minus margin of error will vary, based on the confidence that we are trying to print."
+02:31:00,02:31:02, Because of Z at one minus alpha.
+02:31:05,02:31:10, into the variation with among the multiple samples that might have.
+02:31:12,02:31:17," So that variation is called as a standard error, this is called a standard error."
+02:31:20,02:31:24, Is not standard deviation standard deviation speaks about.
+02:31:25,02:31:27, The variation in one sample.
+02:31:29,02:31:42," That variation of the individual records, with respect to the mean, but here standard error, we are trying to interpret the variation among the surface multiple sound."
+02:31:44,02:31:45," Good, this is the formula."
+02:31:48,02:32:01," Now, when we do the calculations, the confidence level is something that we have to measure it has nothing but the points on the Z axis, which give us the area under the curve."
+02:32:02,02:32:06, So if I know that area under the curve being 95%.
+02:32:07,02:32:12," Then, what is this Z that's what we're trying to identify minus n plus."
+02:32:18,02:32:36," So when we do the calculation before that, let me record this Z value at 95% is plus or minus 1.960 90% is plus or minus 1.645."
+02:32:37,02:32:43, And zero 99% is plus or minus 2.575.
+02:32:44,02:32:49, Now these three standard values or something that you might want to remember.
+02:32:50,02:32:52," Okay, especially this."
+02:32:54,02:33:03, That the default 190 5% confidence is the default confidence level that we need to measure that predictions.
+02:33:05,02:33:05, Right.
+02:33:10,02:33:10, Now.
+02:33:13,02:33:22," Then we do the calculation at 95% confidence right, this is the results that the calibration expert assignments, we get this."
+02:33:25,02:33:31," night, but if you look at those results, the statements that we pass it."
+02:33:33,02:33:38, Those statements should include all the references that we are basically using.
+02:33:40,02:33:42, The mean violence of the population nice industry.
+02:33:45,02:33:54," mean balance right off the population license the strange very good, so we are talking about meal lying in this range, but what confidence."
+02:33:57,02:33:58, Is it 90% 95%.
+02:34:00,02:34:07," That is not explained by so confidence level is not given here, so this cannot be here right state."
+02:34:09,02:34:15," mean balance is in this range 95% of the time, so this is given."
+02:34:16,02:34:20, But mean balance is it new or is it X bar.
+02:34:21,02:34:23," That is not mentioned, so this is also not."
+02:34:26,02:34:40," We have to refer to the sample also and we are making the statement because using that sample only we are getting this stuff, and this is completely wrong because you cannot use only 95% of the customers, you have to use 100% of the data."
+02:34:43,02:34:46," So the only to corrupt interpretations, at least."
+02:34:49,02:34:51, and basically we are saying.
+02:34:52,02:35:03," mean of the population has 95% chance of being in this range for a random sample That means, if you take any random sample."
+02:35:04,02:35:13," And do the calculations, the mean of the population has 95% chance of being in this range."
+02:35:16,02:35:17, Right I.
+02:35:19,02:35:24, mean of the population will be in this day and mean of the population will be in this range.
+02:35:27,02:35:32, right for 95% of the run up so that means if I take hundred samples.
+02:35:33,02:35:38, Then 95% of the samples X bar values will lie in this range God.
+02:35:40,02:35:48," And that's that's what the second statement So these are the only two statements which are correct, not these three."
+02:35:50,02:36:00," So, ultimately, we are saying that this is the population result parameter, but that is obtained using sample statistic and at certain confidentially."
+02:36:01,02:36:05," So if you use all these three, then these are corrupt interpretations."
+02:36:10,02:36:14, Now the actual question counts the formula.
+02:36:16,02:36:26," Confidence interval is X bar plus on my eyes, I mean margin of error rate, so it is a point estimate plus or minus margin of error."
+02:36:27,02:36:29, The margin of error is nothing but.
+02:36:31,02:36:34, see it when when is i'll find to standard error.
+02:36:35,02:36:38, standard is nothing but Sigma squared.
+02:36:39,02:36:45, Now this formula is used to calculate or estimate parameter.
+02:36:47,02:36:50," admins on population data, what will be the results."
+02:36:55,02:37:00," But this is done in the first place, because we only have sample data we don't have population."
+02:37:01,02:37:05, The population data is not available then how can I get this parent.
+02:37:08,02:37:25," it's rather a I cannot have a parameter used to calculate another parameter because, if I am able to get this parameter, then I should be able to be also get this parameter right I don't need to do all these big calculations not required."
+02:37:27,02:37:28, Right.
+02:37:30,02:37:32, So practically speaking.
+02:37:33,02:37:36, You will not have Sigma.
+02:37:37,02:37:47," theta if the bankers new one, hence the population standard deviation from the previous lunches is not reuse, that means I don't know what was the previous lunch average."
+02:37:49,02:37:50, There is seek my is not.
+02:37:53,02:37:54, What are we doing.
+02:37:55,02:37:59, We are calculating new using expert point St.
+02:38:01,02:38:09, hey if I don't know Sigma can I also not use sample standard deviation to estimate population standard deviation.
+02:38:11,02:38:13, that's what we are doing in the first place right.
+02:38:18,02:38:22, We are trying to take statistic to interpret for parameter.
+02:38:23,02:38:28," Correct, so we are trying to do that heroes, not just on the meal, but also send division."
+02:38:31,02:38:35, So the best the replacement for Sigma is its finest.
+02:38:37,02:38:42," But if I have to do the calculation, we are considering the variation aspect is what."
+02:38:46,02:38:53," I get our data to take X bar because it's but keeps changing isn't it, the reason why we have to see equation confidence interval equation."
+02:38:55,02:38:59," Then, how can I blindly estimate Sigma using yes here also there will be variation right."
+02:39:02,02:39:04, That variation also should be captured.
+02:39:05,02:39:13," If I have to use small, as in the equation, and a variation that comes with this Sigma is also something that we have to consider."
+02:39:16,02:39:17, Right.
+02:39:20,02:39:22, So to capture that variation.
+02:39:24,02:39:29," That is under distribution called T distribution, and this, the distribution is used."
+02:39:33,02:39:34," Okay, p distribution is just."
+02:39:36,02:39:39, A distribution is also known as student tea distribution.
+02:39:41,02:39:47," Which is also branch, you can say of normal distribution date same normal distribution concept."
+02:39:52,02:40:02," hey so rather than Z distribution now, we will have to use the distribution, which also accounts to be variation of the Sigma."
+02:40:03,02:40:05, variation calculating same.
+02:40:07,02:40:08, Right so that's.
+02:40:10,02:40:12, The key distribution usage.
+02:40:14,02:40:18," T distribution, as I mentioned, is just like a standard."
+02:40:19,02:40:20, has one property.
+02:40:22,02:40:28, It is very similar to see that one difference is basically the category property of your peers.
+02:40:29,02:40:30, And that is.
+02:40:31,02:40:32, This property.
+02:40:38,02:40:45, As then how the sample size increases that T distribution tends to become Z distribution.
+02:40:51,02:40:58," So D distribution will also get affected with the sample size, which is also expressed as degrees of freedom."
+02:41:01,02:41:01, And minus one.
+02:41:03,02:41:06, minus to read those degrees of freedom to be used.
+02:41:09,02:41:14," So, if your degrees of freedom is one that means your sample size is too."
+02:41:15,02:41:16, Then.
+02:41:17,02:41:20, This becomes your Z this becomes your.
+02:41:23,02:41:24, Right Z.
+02:41:26,02:41:26, You can see.
+02:41:28,02:41:30, That there's a clear case of difference.
+02:41:33,02:41:33, Right.
+02:41:34,02:41:36, Different clear differences.
+02:41:37,02:41:41, But as the sample size increases.
+02:41:43,02:41:52," As the sample size keep increasing that gap between these two is reduced, and at this stage it's almost equal."
+02:41:53,02:41:55, But they are not going to be exactly.
+02:41:57,02:41:58, Right.
+02:42:02,02:42:03, So this is.
+02:42:05,02:42:10, N minus 130 degrees and almost to touch that's your property.
+02:42:11,02:42:15," They will not be exactly the same, but there will be very, very close."
+02:42:18,02:42:22, If n is tending to become infinity.
+02:42:23,02:42:30, And is increasing sample sizes increasing that means if sample size increases the variation is that using zenda.
+02:42:32,02:42:35, So your tea distribution tends to become Z distribution.
+02:42:37,02:42:44," See very, very simple, if this is my population if I take a small sample then there could be a lot of variation between the sand."
+02:42:45,02:42:47, Right between the values that will not have a.
+02:42:48,02:42:55," But if my sample size increases, then that variation between the samples will be there."
+02:42:57,02:42:57, Right.
+02:42:59,02:43:01, And the distribution is all about capturing that way.
+02:43:03,02:43:07, So as Z as n tends to infinity T tends to becomes.
+02:43:13,02:43:16, And a formula is changing like this.
+02:43:18,02:43:21, In place of Sigma we are replacing.
+02:43:22,02:43:23, smallest.
+02:43:25,02:43:26, Okay.
+02:43:29,02:43:35, But as to counter this variations we bring in T distribution in place of CDs.
+02:43:38,02:43:41," Right, and here we have one minus alpha."
+02:43:42,02:43:47, And N minus one as well because T distribution is getting impacted by the sanford's.
+02:43:52,02:43:52, Right.
+02:43:54,02:44:01," Now I know what does expire, I know what is smallest, I know what is square root of n I don't know the tea distribution T values."
+02:44:02,02:44:06, So just like how we have the distribution.
+02:44:08,02:44:13, We also have P table just replace that Z with the that's a.
+02:44:16,02:44:17, that's your details.
+02:44:26,02:44:27, right hand this is your table.
+02:44:33,02:44:36, And yet this is the table.
+02:44:41,02:44:45," The table, you have to look at the first column."
+02:44:46,02:44:48, which has degrees of freedom.
+02:44:55,02:45:03," And at the bottom, you see the confidence level, Sir, I mean that's how we read it at the top, this is like one to two tails at all that you can ignore it."
+02:45:06,02:45:11, What it means we only look at left side who tells me boo the Bush okay.
+02:45:12,02:45:13, So that's basically your.
+02:45:15,02:45:15,calculations.
+02:45:17,02:45:20, And the year we want.
+02:45:21,02:45:22, to capture.
+02:45:24,02:45:27, The P value for one minus Alpha and N minus one.
+02:45:30,02:45:32, One minus alpha is.
+02:45:33,02:45:40, 95% N minus one small island is 140 so this becomes 113.
+02:45:42,02:45:44, But if you look at the table here.
+02:45:45,02:45:47, We don't have one for.
+02:45:48,02:45:51, The next closest value is hundred.
+02:45:54,02:45:58," Okay, so we will take 95% at hand."
+02:46:01,02:46:08," And it's a physical page, so we cannot enjoy everything, but when we do the calculations you'll also get these exact values us."
+02:46:10,02:46:13, So 1.984.
+02:46:17,02:46:23," Alright, so that's your calculations, so we replace that P value with."
+02:46:24,02:46:26,This calculation.
+02:46:28,02:46:30, And this is the numbers that you will see.
+02:46:33,02:46:45," So this is smallest 2833 right, and then you look at look at this and T value at 0.975 or 95%."
+02:46:46,02:46:50, is one that 1.988 degrees of freedom as 130.
+02:46:52,02:46:56, Okay don't get confused with 0.975.
+02:46:57,02:46:58, If this is your curve.
+02:47:00,02:47:01, If this is 95%.
+02:47:04,02:47:15," And then, this will be 2.5% So if I had both of them i'll get this he left said cumulative portion right for 97.5%."
+02:47:18,02:47:19, This is the Z value.
+02:47:20,02:47:23, Get 95.7 verse.
+02:47:25,02:47:26," hey, this is the."
+02:47:33,02:47:41," positive side, if you do have been this point, then you might want to write it as 0.025, and this will be one minus."
+02:47:44,02:47:47, minus 1.0 point nine.
+02:47:57,02:47:58, So when you do the calculation.
+02:48:02,02:48:07, very similar to the interpretation that we have done for the table same thing here on fertility.
+02:48:15,02:48:15, All right.
+02:48:22,02:48:23, Any questions.
+02:48:37,02:48:39, yeah guys any questions.
+02:48:45,02:48:45, nope so.
+02:48:49,02:48:53, Now these things that we have done manually right let's do that.
+02:48:54,02:48:55, In Python.
+02:48:58,02:49:04," So go on, let me down on the business basic Statistics Code that you have already have read and go all the way down."
+02:49:08,02:49:16, Standard edition normalization and after normal qq blood yeah this is busy distribution characteristics.
+02:49:19,02:49:25," Alright, so this is my data i'm importing side by dot stats."
+02:49:27,02:49:41, This is required because the Z distribution is calculated using this tax functionality so stats dot nom dot CDF CFS cumulative distribution function.
+02:49:43,02:49:45, It basically takes the X value.
+02:49:47,02:49:48, there's the syntax OK.
+02:49:49,02:49:56, Serious CDF X are your you can also call it a squad time comma new cameras.
+02:49:58,02:50:07," But this is the representation parameter representation, so we have six at mujer 711 segments 20."
+02:50:09,02:50:11, Right cumulative distribution function.
+02:50:13,02:50:22, If I execute this it will give me the area under the Left curve on the left side push that is your CD of cumulative.
+02:50:24,02:50:25, Distribution function.
+02:50:29,02:50:31, All you need to passes mean it standard.
+02:50:33,02:50:36," So this 14.25%, to be precise."
+02:50:38,02:50:43, Then we have point percent function or percentage point function.
+02:50:44,02:50:45, So I know the percentage.
+02:50:47,02:50:50, That I know the percentage.
+02:50:52,02:50:56, This is 0.025 I know this percentage.
+02:50:58,02:51:01, What is the point at which i'll get this person.
+02:51:03,02:51:07, and passing meal and Sigma for Z value status.
+02:51:08,02:51:16," Z has the standard right, even if we don't give by default you're assuming that the function as your status 01 Sigma."
+02:51:19,02:51:21, So we're talking about 0.0.
+02:51:25,02:51:31, So point 4% point function is giving us minus 1.96.
+02:51:36,02:51:39, Now this is what Z distribution normal distribution.
+02:51:41,02:51:53," same calculation, if I have to do the area under the curve, then I will be doing the distribution for CDF RT distribution for percent point function."
+02:51:55,02:51:56, Right So these are.
+02:51:58,02:52:03, The calculations stats dot T dot CDF but here i'm passing.
+02:52:05,02:52:07, The right value.
+02:52:08,02:52:11, The value with degrees of freedom.
+02:52:14,02:52:15, Alright So here we have to do.
+02:52:16,02:52:21," quantel value right so i'm passing that one time value, I am getting area under the."
+02:52:26,02:52:26, Great.
+02:52:31,02:52:42, same way if you see ppm I know this value what will be the I mean this is the area under the curve and what will be the exact P value at which we get.
+02:52:45,02:52:49, One minus 1.977 when very precise number calculations and.
+02:52:51,02:52:52, So this is the.
+02:52:54,02:52:57, Calculations that that basically are done.
+02:52:58,02:53:01, Yet all these way we're doing it in man.
+02:53:06,02:53:08, yeah so that's that's about your.
+02:53:11,02:53:30," theory of doing predictions on numeric data inferential statistics, so when you are doing inferential statistics, remember that the samples might vary, hence we have to consider that variation and then probability of single number is equal to zero hands, we have predicted in a REACH."
+02:53:31,02:53:33, And that's where confidence in the world coming to the picture.
+02:53:35,02:53:44, and confidence interval basically says point estimate plus or minus margin of error and the margin of error is associated with the confidence level.
+02:53:48,02:54:02," The range it which right the range, at which the results will fall under the bell curve, which is infinity skin we're trying to find out a range, in which the actual values might work for that becomes your competency."
+02:54:05,02:54:15," Okay, so that's your inferential statistics and using these inferential statistics we will basically take decisions."
+02:54:16,02:54:18, That informed decisions.
+02:54:19,02:54:22," For example, number in the credit card scenario."
+02:54:25,02:54:25, Right.
+02:54:28,02:54:35," Should I launched the credit card program or not to all my customers, something that you have to take a decision."
+02:54:36,02:54:39, So when you're looking at your investment and all that.
+02:54:41,02:54:41, Right.
+02:54:43,02:54:49, As from a business perspective okay from from a business perspective let's say you're you're looking at.
+02:54:57,02:54:59, Some let's see.
+02:55:03,02:55:04, let's see.
+02:55:05,02:55:10," yeah $2,000 is the calculation that you are getting for Roi."
+02:55:12,02:55:14," But whatever the investment that you, as you come in this video."
+02:55:17,02:55:29," If your balance is going to be 2000 or more for all the hundred thousand customers, this is your population right if this was the piece."
+02:55:32,02:55:36," hey, this is the estimation, so you are doing the calculations."
+02:55:37,02:55:47," So your business is very clear that you need to get $2,000 but unless until you do the business will not know whether you will get $2,000 or."
+02:55:48,02:55:50, Hence we do the.
+02:55:51,02:55:55, sample calculations that by legend.
+02:55:57,02:56:08, And within the pilot launch we get confidence interval we're trying to estimate the result so we'll get some range at 95% confidence if I have to take the default one.
+02:56:10,02:56:16, If my right reserved confidence interval that i'm getting is basically saying.
+02:56:18,02:56:20, 1800 to 1900.
+02:56:21,02:56:23, K let's say this is your range.
+02:56:25,02:56:26, If you are in since.
+02:56:30,02:56:33, As part of the calculations right pilot lunch.
+02:56:37,02:56:40, yeah if i'm getting this should I continue with the business.
+02:56:49,02:56:50, Should we continue with the business case.
+02:57:07,02:57:08, depends on the credit card limit.
+02:57:10,02:57:16, already mentioned be made of it then on investment is calculated as.
+02:57:16,02:57:30," $2,000 which basically means that the minimum balance that all these hundred thousand customers should maintain 2000, this is the guideline the businesses deciding based on all the calculations on the investment that they have made, and all that."
+02:57:32,02:57:38," From a business perspective management is clear, they need to get $2,000 to make business profitable."
+02:57:41,02:57:41, than.
+02:57:42,02:57:46, That i'm getting only 1800 and 1900 so should I continue my business.
+02:57:46,02:57:51, Know obviously no definitely why because this condition is not satisfied.
+02:57:55,02:57:56, Linda.
+02:57:58,02:58:11," If my business is 1900 to 2100 I mean if this is the confidence interval the time it gets to this case one this is case should I continue, or should I stop."
+02:58:15,02:58:17, may continue and consider to continue.
+02:58:18,02:58:22," you're not launching are all the customers, maybe."
+02:58:23,02:58:25," This will you have lunch, the population."
+02:58:25,02:58:29, that's the objective you cannot say I only lunch for so many know.
+02:58:30,02:58:32, it's what all the customers we're generalizing.
+02:58:33,02:58:39," Then, maybe know because, like there's a chance of 1900 also so not meeting $2,000."
+02:58:40,02:58:42," Okay, Peter completed, we."
+02:58:42,02:58:44, should start from 2000.
+02:58:45,02:58:51," Okay, yes, Sir 1900 to 2020 2100 basically is nothing but."
+02:58:54,02:58:55, This is less than buddha's.
+02:58:58,02:59:10," Okay, see if you're doing a business right you're investing thousand dollars you're doing some tasks and you're exactly getting thousand bucks in returns is this a good business model."
+02:59:12,02:59:13, No.
+02:59:14,02:59:18," No right, it has to be greater, it has to be greater than what you have."
+02:59:18,02:59:20," invested on it, then you proceed."
+02:59:21,02:59:28," So 2000 is the return on investment racing if I get $2,000, then the investment is returned."
+02:59:29,02:59:44," I need more than 2000 to become profitable, so you are going to only look into the case if you are range is going to start from 2001 to probably 2005 or 2500 whatever that number."
+02:59:46,02:59:48, Only if you're identifying.
+02:59:49,02:59:58," Your confidence interval being like this, compared to 2000 only in this case, you will proceed with the investment and and proceed with the business."
+03:00:01,03:00:02, Here we are doing.
+03:00:02,03:00:14, Our informed decisions you taking a informed decisions and this informed decisions are also known as data driven decisions.
+03:00:15,03:00:21," Rather than blindly saying okay this area, the business will be very good this business ideas very good let's invest."
+03:00:23,03:00:31," Right, rather than that blind hand, these are decisions we basically come up with this data driven decisions are informed."
+03:00:37,03:00:38, Right good.
+03:00:51,03:00:52, Is it clear yes.
+03:00:53,03:00:54, Yes.
+03:00:55,03:00:55," Yes, sir."
+03:01:07,03:01:07,Okay.
+03:01:13,03:01:18, This concept that we just discussed right is also called as hypothesis testing.
+03:01:19,03:01:22, Information based on data.
+03:01:24,03:01:31," Now this hypothesis testing is not being focused in the interview, so we also have remote from our regular."
+03:01:32,03:01:32,sessions.
+03:01:34,03:01:47," at once upon a time, is this concepts were considered for interviews now they're not asking anything from this particular questions, so I only cover the theory particle theory, but then we'll move on to the next."
+03:01:48,03:01:48, So.
+03:01:48,03:01:52, You can just continue with recording you can do the practice yes.
+03:01:53,03:02:09," So before like, as we have unwritten the numerical kind of production kind of thing like I have adults are like in assignments, in addition, three assignments actually have to predict the company's date of sales, like the output is a numeric."
+03:02:12,03:02:13, Decision tree the desert has to be.
+03:02:13,03:02:22," Here, because it has to be taken, but like no matter like how many times the accuracies like it's a big plus."
+03:02:23,03:02:26," That means, be a bad idea tuning has to be tried more."
+03:02:28,03:02:34," It has nothing to do with the classification or numeric data, it is all about the parameters that you're trying."
+03:02:35,03:02:40, So that is also numeric data right like continuous numeric data than white on please conference.
+03:02:42,03:02:44, automatically your confidence interval is calculated.
+03:02:45,03:02:49," Okay, by default, like in those packets like they shouldn't be."
+03:02:50,03:03:01," Any regrets at model, the calculation that you are doing, will, by default, assume 95% confidence, and you are going to actually get confidence interval."
+03:03:02,03:03:12," Okay, to the calculations will not give you this interval in certain cases, the intervals, are also can what you can at this point estimate only."
+03:03:13,03:03:21," Okay, so, in those cases like invasion to eat better like internally is calculating all those things that conference and we're not."
+03:03:21,03:03:25," Even take the parameters, the confidence interval is also that yes."
+03:03:29,03:03:29, that's it's.
+03:03:32,03:03:36," very, very simple guys if my data is numeric."
+03:03:39,03:03:41, Right and if it is especially continuous.
+03:03:43,03:03:46, Because my underlying sample changes.
+03:03:48,03:03:51, That and and the length sample changes.
+03:03:53,03:03:57, The result so to capture that variation.
+03:03:58,03:04:01, We use confidence interval.
+03:04:04,03:04:04, Right.
+03:04:08,03:04:25," Okay, and if the prediction that that you're getting is a numeric prediction the numerical but then the model is coldness regression model or aggressors if the model is giving non numerical but then it is called, as a class that's yes."
+03:04:28,03:04:28, Okay next.
+03:04:29,03:04:33," hypothesis testing, as I explained is all about."
+03:04:34,03:04:38, Making certain assumptions for parameters.
+03:04:41,03:04:45," But because parameters cannot be identified, we will take sample."
+03:04:47,03:04:50," From population, and then we calculate statistics."
+03:04:51,03:04:58, And while making estimations we use confidence interval for estimating the path.
+03:04:59,03:05:02, and using the estimated.
+03:05:03,03:05:05, Estimated results.
+03:05:06,03:05:09, We will take business decisions.
+03:05:11,03:05:13, But when you're trying to do this.
+03:05:14,03:05:16, There might be cases where.
+03:05:17,03:05:17, You may go.
+03:05:19,03:05:26," Okay, so there are certain terminologies or certain standard process that you have to follow, let us try and understand that process."
+03:05:29,03:05:29, Next.
+03:05:33,03:05:40, let's it the business that we are speaking right was having an Roi as 2000.
+03:05:43,03:05:44, Then.
+03:05:52,03:05:55,i'll put it this way okay.
+03:05:58,03:06:08," So first case right, if I have to take a business decision on whether to launch credit card offer to be and then credit cards to the customer service."
+03:06:12,03:06:14," lines credit packs Okay, this is the."
+03:06:16,03:06:22," Right, so if I have to launch credit card and i'm basically taking a decision okay."
+03:06:23,03:06:25, What would be your.
+03:06:27,03:06:28, First.
+03:06:31,03:06:31, Decision a.
+03:06:35,03:06:38," Safer decision yeah, this is the question."
+03:06:40,03:06:42, What will be your safer decision.
+03:06:47,03:06:52, Any new change that you're bringing in there's nothing but a business challenge.
+03:06:54,03:06:54, Right.
+03:06:58,03:06:58, So you can score.
+03:06:59,03:07:01, 37 score.
+03:07:03,03:07:03,Similar.
+03:07:05,03:07:09," Basically score is coming, what is the question you are the manager of the Bank."
+03:07:09,03:07:10, mean you're the head of the Bank.
+03:07:11,03:07:20," You have a decision to be taken, what is the decision should I launched the credit card to the customers or not."
+03:07:20,03:07:21,Okay.
+03:07:24,03:07:24,yeah.
+03:07:26,03:07:27, If this is the key.
+03:07:27,03:07:27,Is.
+03:07:31,03:07:32," Then, what will be your answer."
+03:07:41,03:07:55," So this is, it is exactly like $2,000 is the return on investment, like we don't know, we need to consider the plus and minus cases also right so it's exactly the same value, there may be a minus case or so so."
+03:07:55,03:07:57," It should, no, no, no, no, no okay again okay."
+03:07:57,03:08:00, hold on hold on we're not talking about.
+03:08:01,03:08:02, Our our you.
+03:08:02,03:08:06," know our role is a condition see as a manager, as the."
+03:08:07,03:08:14," head of the band, you have to take a decision but you're saying that Okay, if I have to be implemented, this is the investment that I have to put."
+03:08:15,03:08:24," If I get only this kind of returns, only then it will be profitable that these kind of decisions you're looking at already I mean sorry this kind of information you're also looking at."
+03:08:26,03:08:27, As part of that I said.
+03:08:28,03:08:29, If the business gets.
+03:08:29,03:08:33," Minimum $2,000, then the money is right or at it."
+03:08:35,03:08:47," From that aspect of return that forget about the question here, all you have to think about us there is a business decision that you need to take should I launched the credit card to the customers are not."
+03:08:48,03:08:55," So, as we like previously discussed, probably the launch a pilot program like will will choose very few people and launch it."
+03:08:55,03:08:58, Is that is the process that you are implementing.
+03:08:58,03:09:02, To get the data and then taken informed decisions but.
+03:09:03,03:09:04,Before that i'm saying.
+03:09:06,03:09:08, Maybe if you have a decision.
+03:09:09,03:09:13, You have to consider risk risk factor select even be.
+03:09:13,03:09:17, plan Basra on look at all those things guys take simple steps.
+03:09:17,03:09:23," My question is, will you launch the credit card or not, what two options, you have."
+03:09:25,03:09:26, There will be two options only that.
+03:09:27,03:09:31, If certain parts are all going to come when you're going to detail into that.
+03:09:32,03:09:41," I ultimately for this question what two answers you have there will be only two answers, yes, you launch no you don't look."
+03:09:42,03:09:43," Now, getting me."
+03:09:45,03:09:47, Given this scenario.
+03:09:49,03:09:54, Which one would you prefer as a risk less scenarios.
+03:09:55,03:09:57," are giving them, obviously we choose to launch the credit."
+03:09:58,03:09:59, Is that riskless.
+03:10:00,03:10:03, feud launch that there may be losses also if you launch it so.
+03:10:03,03:10:06, Exactly the riskiest rate.
+03:10:09,03:10:11," so to speak, is walking."
+03:10:14,03:10:22, See whatever you're currently doing you're assuming that that is a good scenario that is a good status that you are in all conditions are good.
+03:10:23,03:10:26, That is the default assumption.
+03:10:28,03:10:30, We also call it us status Q.
+03:10:34,03:10:35, Right.
+03:10:36,03:10:47," Now, what is your default or current condition for the business, no, it does not have credit cards it's just running the regular business bank is running the regular banking business, there is no credit cards."
+03:10:48,03:10:52, So this will be your default assumption.
+03:10:54,03:10:55, Okay.
+03:10:56,03:10:57," Do not learn, so my bad."
+03:11:01,03:11:02," you're going to say, do not know."
+03:11:04,03:11:09, This is also called as no action decision or no action condition.
+03:11:11,03:11:14, This is called is null.
+03:11:15,03:11:17, hypothesis hypothesis means.
+03:11:18,03:11:19, assumptions right.
+03:11:22,03:11:26," How about this as means assumption, so the thing null hypothesis."
+03:11:28,03:11:31, Now means no X you're not doing anything.
+03:11:33,03:11:39, If you don't do anything that that means your current condition is assumed to be good right or default condition of current current.
+03:11:41,03:11:44, So this is the not launch case.
+03:11:47,03:11:48, Okay.
+03:11:49,03:11:58," But there is a business decision that we need to take should I launch the credit card or not, if that question comes riskless."
+03:12:00,03:12:06, Decision is go with your current conditions that means don't do something different.
+03:12:07,03:12:19, But if you can find an evidence which says that if you launch credit card you're going to get benefited it basically means.
+03:12:20,03:12:22, If you take action.
+03:12:25,03:12:31," Right find evidence which says you take action and you get profitable in that case, obviously launch."
+03:12:33,03:12:33, Right.
+03:12:34,03:12:42," So the first condition is this in that business scenario, the alternate condition will be launched the grid."
+03:12:43,03:12:46, So it's called as alternate hypothesis.
+03:12:47,03:12:56," Take action condition alternate hypothesis So here we say launch, because that is the action that we are trying to evaluate."
+03:12:57,03:13:01," But in order to come to this, we need evidence."
+03:13:02,03:13:05, That evidence is what we were trying to calculate it the previous exam.
+03:13:06,03:13:12," So we need parameter details, but we not get parameter details so we'll take."
+03:13:13,03:13:16, Care sample and then calculated statistics.
+03:13:18,03:13:27," But based on right the decisions have to be taken a parameter, so we will first make these statements or make those conditions."
+03:13:29,03:13:36," Using parameters Okay, then we'll take sample than statistics, then using statistics."
+03:13:37,03:13:39, We will try to estimate parameters.
+03:13:43,03:13:46, and using that estimated parameters take decisions.
+03:13:49,03:13:49, Okay.
+03:13:53,03:13:57," No null hypothesis represent rise, which not H zero."
+03:13:59,03:14:04, alternate hypothesis represented as hitched a or you can also say which one.
+03:14:05,03:14:08, In a hypothesis an alternate hypothesis.
+03:14:11,03:14:12, Okay.
+03:14:14,03:14:14, But.
+03:14:15,03:14:34," The decisions are to be based on certain conditions in this example that condition is taken from this Roi assumption that we made right, we were assuming that this was the calculation that was done in $2,000 was the return on investment mark."
+03:14:36,03:14:38, So when you do this calculation.
+03:14:40,03:14:42, you'll get estimated parameters.
+03:14:44,03:14:45, range right interval.
+03:14:47,03:15:02," So using that interval we will take a decision, so the statement that we will have the conditions that will right here for null hypothesis is that if, on an average parameter remember the statements have to be a parameter if on an average."
+03:15:03,03:15:09, The conditions are that I will get or the business will get less than or equal to.
+03:15:11,03:15:12," $2,000."
+03:15:13,03:15:14, hey.
+03:15:15,03:15:19, As a as the voltage right average balance.
+03:15:20,03:15:21, Then we will say.
+03:15:22,03:15:25, Not much no action and probably say.
+03:15:28,03:15:29, That means you're not launching them.
+03:15:31,03:15:40," But if you find out an evidence which says the calculations are going to give you greater than $2,000, then you will take."
+03:15:44,03:15:44, Care guys.
+03:15:48,03:15:51, We are framing the conditions we are framing those scenarios.
+03:15:53,03:16:00," quantifying those and then using the calculations, using the results from population sample."
+03:16:01,03:16:01, We will.
+03:16:02,03:16:07, Try to conclude on what decision we have to take in a business condition.
+03:16:10,03:16:11, Clear.
+03:16:15,03:16:16," Yes, sir."
+03:16:17,03:16:20, yeah we're still kind of looking at university to.
+03:16:20,03:16:20, Be.
+03:16:21,03:16:36," If certain parts are always dead, if this condition is changing of that condition is changing we'll deal with that, but for now, this is basically a simple example of your hypothesis testing, which basically allows us to do the."
+03:16:37,03:16:40, inferential statistics for taking a business decision.
+03:16:42,03:16:43,Right.
+03:16:44,03:16:45, Now.
+03:16:49,03:16:52," We have seen confusion matrix right, I mean the cost table."
+03:16:53,03:16:54, isn't it.
+03:16:56,03:16:58, it's a two by two table that we have see.
+03:17:01,03:17:02, Those similar lines.
+03:17:03,03:17:05," Here also, we have a two by two table."
+03:17:06,03:17:13," Okay, and that two by two table basically gives us insights on kind of decisions."
+03:17:15,03:17:16, and wrong decisions.
+03:17:19,03:17:19, Very simple.
+03:17:21,03:17:22, If this is the condition.
+03:17:23,03:17:27," I should not launch the business right, I mean I should not launch the credit isn't it."
+03:17:28,03:17:29, If I come to know that.
+03:17:31,03:17:37," My balance is going to be less than $2,000 which was like return on investment condition."
+03:17:38,03:17:40, Then I should not be launching my business right.
+03:17:43,03:17:43, isn't it.
+03:17:48,03:17:53," But in this case, if I go ahead and take action, what happens."
+03:17:56,03:17:58," yeah in this case, what will happen this."
+03:18:12,03:18:13, What happens.
+03:18:21,03:18:23, Is this not clear.
+03:18:31,03:18:33," Is it clear or not clear, the question."
+03:18:35,03:18:37," So, can you repeat the questions."
+03:18:38,03:18:39,up.
+03:18:40,03:18:42, So same business scenario.
+03:18:43,03:18:44, Okay now.
+03:18:45,03:18:51," The return on investment was saying $232,000 is what the average balance should be made by each customer."
+03:18:53,03:19:03, When you did the calculation you found that the business right is not generating balance with the customers are not maintaining the balance which is greater than.
+03:19:04,03:19:06, balances less than or equal to.
+03:19:08,03:19:12, So in this case I should not be launching my credit card right.
+03:19:15,03:19:15, Yes.
+03:19:16,03:19:24," But if we take action, take action to launch in this case, it is only two decisions if I take action, then what will happen in this case."
+03:19:25,03:19:27, going to Los yes.
+03:19:27,03:19:29, We are going into losses.
+03:19:31,03:19:34," Similarly, I come to know that."
+03:19:36,03:19:40," The balance is going to be greater than $2,000 that the people are maintaining."
+03:19:42,03:19:47, But rather than taking action i'm saying i'm too lazy not to take action.
+03:19:50,03:19:51," In this case, water."
+03:19:52,03:19:55, We just remain where we are there's no growth.
+03:19:56,03:19:59, Exactly the chance of.
+03:19:59,03:20:01, Becoming profitable is.
+03:20:01,03:20:04," is reduced, we don't have the chance."
+03:20:05,03:20:06, Right.
+03:20:07,03:20:12, So there are correct decisions are you may also take the wrong decision.
+03:20:15,03:20:21," Correct, so there are two by two tables basically here that that we can create for options or net."
+03:20:23,03:20:25, And that two by two table can be explained like this.
+03:20:27,03:20:46," If you are null hypothesis is true that means, if you would have launched your credit card business, you would have gone into losses that's the condition that means your balance would have been less than or equal to $2,000 imagine, this would be the case, this was the case in real."
+03:20:47,03:20:50," Ideally, you have to."
+03:20:51,03:20:59, frame to reject the null condition fail to reject means you are your don't have you're basically not having evidence.
+03:21:00,03:21:03," To do something different from what you are doing, currently."
+03:21:04,03:21:06, Good that scholars fail to reject the.
+03:21:08,03:21:10," null hypothesis, the current condition right."
+03:21:12,03:21:13, you're doing that anyways.
+03:21:16,03:21:22," If you have evidence, you can change that condition, but here we are saying I don't have evidence to change."
+03:21:23,03:21:34," Right, when this is the scenario, you will go with null hypothesis for me, this is the right decision this is represented as confidence."
+03:21:36,03:21:38, that the value is lying in that confidence region.
+03:21:40,03:21:41, But if.
+03:21:43,03:21:53," But if, in this case, if you reject the null hypothesis that you're saying that no I will go ahead and take business decision and launch the credit card."
+03:21:54,03:21:59," If this is the scenario, then it is going to be wrong decision isn't it."
+03:22:02,03:22:04, This is wrong decision.
+03:22:06,03:22:14," We call this particular decision is Type one error, and this is represented as and far representation."
+03:22:18,03:22:19, Okay.
+03:22:21,03:22:29," This is one scenario now as Jim you're going to get greater than $2,000 that means you're going to get profits actually."
+03:22:30,03:22:32, But you're too lazy to take action.
+03:22:35,03:22:42, You fail to reject null hypothesis you're saying that no i'm too lazy I don't believe this a lot want to launch.
+03:22:43,03:22:47, The credit card so you're doing whatever is the current condition you're repeating.
+03:22:48,03:22:51, This is Type two error.
+03:22:52,03:22:54, represented us beta.
+03:22:55,03:22:57, This is also wrong decision.
+03:22:59,03:23:02," And finally, you have the right decision here."
+03:23:03,03:23:06, It says see if it is greater than 2000 you go ahead and launch it.
+03:23:08,03:23:10, reject your current condition and do something different.
+03:23:11,03:23:12, With this is.
+03:23:12,03:23:14, nothing but alternatives.
+03:23:16,03:23:26," So this is called as power of the test because, ultimately, this scenario is helping us to do something different from what we are doing, but take some action."
+03:23:29,03:23:30, And it's called as power of the test.
+03:23:33,03:23:39," Now Type one and Type two, these are the names case there is no other game, the errors are called has Type one and Type two."
+03:23:40,03:23:45, Type one error is dangerous because you're inviting lawsuits.
+03:23:46,03:23:52, You should not be taking any action you should be risk free but here you're getting into this you're inviting this.
+03:23:55,03:23:56, Right.
+03:23:57,03:24:03," Basically, a type one error is a condition, where you're taking action when you should not be."
+03:24:07,03:24:08, Taking action when.
+03:24:09,03:24:11, not required.
+03:24:13,03:24:13, Or you can say.
+03:24:15,03:24:16, you're rejecting.
+03:24:17,03:24:18, It.
+03:24:20,03:24:26," Through null hypothesis, this is your Type one represented with and."
+03:24:29,03:24:35, This is not taking action just exactly opposite to not taking.
+03:24:36,03:24:38, Not taking action.
+03:24:40,03:24:41, when required.
+03:24:43,03:24:44, Not is coming here.
+03:24:45,03:24:52," that's your type do, or you can say you're failing to reject a false null hypothesis."
+03:24:54,03:24:54, cradle to reject.
+03:24:56,03:24:58, falls null hypothesis.
+03:25:02,03:25:05," Okay, this is called as Type two error, which is represent recipe."
+03:25:08,03:25:09, I found it clear.
+03:25:19,03:25:19, Okay now.
+03:25:22,03:25:29, Based on what we are trying to estimate the value that we are trying to estimate right there are different tests that we have to perform.
+03:25:30,03:25:36, What we have seen that the Z test and the T test that we have seen is.
+03:25:37,03:25:47," For continuous case, your why the output that you're trying to predict, if it is continuous then we follow these right flow charts."
+03:25:48,03:25:51, And we discussed with respect to.
+03:25:52,03:25:53, This.
+03:25:54,03:25:54, Z test.
+03:25:55,03:26:03," On Peters, this is what we discussed when Sigma was known we go through here Sigma is not known we go for."
+03:26:06,03:26:09," Similarly, we have various other test cases."
+03:26:10,03:26:13," Based on different conditions, but all these different test cases are."
+03:26:15,03:26:17, For bias continuous case.
+03:26:18,03:26:20," Similarly, we will also have."
+03:26:23,03:26:26, The test cases which are applied for.
+03:26:27,03:26:32," discrete cases as well, but discrete cases are always easier to calculate."
+03:26:33,03:26:34," Okay, remember that."
+03:26:36,03:26:42," You don't have complex complication when your output as discrete data, you simply take proportion as."
+03:26:43,03:26:45," Well, what proportion to proportion of high school."
+03:26:47,03:26:59," So these are basically different options of your inferential statistics, and these are not limited only to these, but you have a lot of other use cases also."
+03:27:00,03:27:03," But always remember when it is continuous, you will have a chat."
+03:27:07,03:27:11," Okay, various various various things have to be verified normality test has to be checked right."
+03:27:13,03:27:18, All those conditions have to be verified and if you follow that flow chart you will probably be able to.
+03:27:19,03:27:21, Go indie film.
+03:27:23,03:27:30," All right now for detailed discussion of these hypothesis testing, you can refer to the recommended videos."
+03:27:31,03:27:40," But yeah, as I mentioned, theoretically, the subject is more important because in interviews more advanced things that we focus now, these things are not being asked."
+03:27:44,03:27:45, Right yeah.
+03:27:46,03:27:48, So this is about your.
+03:27:50,03:27:53, hypothesis testing or inferential statistics.
+03:27:54,03:28:04," This concepts that we discussed right these concepts that we discussed here, especially your confidence interval nclb its central limit theorem."
+03:28:05,03:28:12," will form the base for doing the predictions, especially when you have output, which is American."
+03:28:13,03:28:17," In our next, yes, we will start with regression is."
+03:28:19,03:28:19, Now.
+03:28:21,03:28:27, So what exactly means regression if i'm I continue of output as continuous then.
+03:28:28,03:28:37," or put logic, we are to apply, and then we also have variations in regressions some of them are not so important, but yeah we still have those techniques."
+03:28:39,03:28:42," Right, and this is more like I but unique concept."
+03:28:43,03:28:53," And these are some of the advanced regression techniques that we have, which are not used anymore in the industry from statistical standpoint, we have those concepts."
+03:28:54,03:29:02," But was the regression, we will move to time series, and finally, we will go to black box or will do black box and then boogie times."
+03:29:06,03:29:11, So that's the future classes next week's guess we'll start with regression analysis.
+03:29:13,03:29:14, Mark your attendance now.
+03:29:27,03:29:27, yeah brushing know.
+03:29:28,03:29:42," So I have a doubt related to the hierarchical clustering so if you'll, allow me to, so the so my screen then i'll so because, in theory, the input, it is not an issue, because I have a doubt there are so many."
+03:29:42,03:29:46," After hold on let everybody finished the attendance part, then we will."
+03:29:47,03:29:48,populate.
+03:29:51,03:29:54, yeah please confirm once the attendance part is done everyone.
+03:30:00,03:30:02, So we have class next week so.
+03:30:04,03:30:04, What happened next.
+03:30:05,03:30:06, gen first.
+03:30:07,03:30:09, Oh okay i'm.
+03:30:11,03:30:15, Dan first I don't think there is any heavy planning on.
+03:30:16,03:30:16, It we.
+03:30:18,03:30:18, have not done.
+03:30:19,03:30:20, Okay yeah.
+03:30:20,03:30:21, 31st is locked down.
+03:30:23,03:30:25, let's confirm so 31st and first logged on.
+03:30:26,03:30:32, i'm i'm not sure i'm not a party person mean hearing that 31st.
+03:30:33,03:30:40," There will be no movement outside everything will be logged in so again, assuming that is the case okay."
+03:30:42,03:30:45, So when can we come to officer.
+03:30:46,03:30:48, Like for the classes offline class.
+03:30:49,03:31:05," yeah I mean today, nobody will be there in office, and yesterday it was on holiday so cleaning and all those things will not, and that is the reason today's classes offline or online next week, we will see you for our officers, a Min we have our first then we'll we'll kind of go in office."
+03:31:05,03:31:08," Okay, so I seem to be having class."
+03:31:09,03:31:11, I will confirm i'm not sure about.
+03:31:11,03:31:17," Okay, so okay so so please inform like if it is offline class."
+03:31:18,03:31:20, yeah i'll mention that both things.
+03:31:21,03:31:23, Please very much preferable select event.
+03:31:24,03:31:27, So you and I also see listening.
+03:31:27,03:31:31, Now I mean I understand a distance so we'll we'll try to have it offline.
+03:31:32,03:31:32," Okay, so."
+03:31:34,03:31:46," That would do this, there was no problem, but I mean I would have come, but the challenge was with respect to the office, it would have not been cleaned and all that so probably, we will not be able to stay."
+03:31:49,03:31:54," Okay, Sir celebrations, and all those things happen on okay."
+03:31:56,03:31:57,that's Nice.
+03:32:01,03:32:01,yeah.
+03:32:06,03:32:09," i'm done so Okay, thank you."
+03:32:10,03:32:11, So.
+03:32:13,03:32:13, Okay.
+03:32:16,03:32:20, Everyone please confirm or change the screen now.
+03:32:27,03:32:31, Okay i'm changing the screen assuming everybody's done don't don't come back and say I did not do it.
+03:32:33,03:32:35," Alright, so let's change."
+03:32:40,03:32:40,The stone.
+03:32:42,03:32:43, yeah.
+03:32:44,03:32:45, No shadows.
+03:32:55,03:32:56, Its.
+03:32:59,03:33:01," east, west airlines data."
+03:33:02,03:33:02, Okay.
+03:33:02,03:33:03,Hello.
+03:33:05,03:33:19," There is a column called smiles and then because, as far as I am, you know i've been gone through this that I, there is a zero, and then the value is 2024, so it is kind of a kind of these outlets are so how can I deal with."
+03:33:20,03:33:22, The first.
+03:33:22,03:33:28," date of the water you think would be appropriate, did you understand what a square miles means."
+03:33:34,03:33:35, Why is.
+03:33:36,03:33:36, ready.
+03:33:41,03:33:42," Yes, a place."
+03:33:44,03:33:44, Where my.
+03:33:46,03:33:49, countenance polycom for top right.
+03:33:50,03:33:51," Now, what does that mean."
+03:33:54,03:34:02, Number of miles countered as qualifying top flight miles right So what does that actually mean did you understand that first.
+03:34:04,03:34:06, Most likely that is a concern.
+03:34:07,03:34:08, Right you.
+03:34:09,03:34:15," Know see the point is no, you have to do a thorough understanding of the business conditions and the data."
+03:34:16,03:34:19, If you would have understood what does square miles means.
+03:34:20,03:34:23," Though the data description is given, but did you research on that."
+03:34:25,03:34:31, Did you try to ask a question on why is 2024 value their wise $500 value and suddenly by zero.
+03:34:32,03:34:36," If you would have done that art read that research, then."
+03:34:36,03:34:38, You should not have this.
+03:34:38,03:34:41," question in the first place, you should be able to take a decision."
+03:34:43,03:34:47, it's all about understanding the data that part is not done properly.
+03:34:48,03:34:54," Business understanding data understanding are going to be very, very to vote there was you not know what to do, or to do."
+03:35:03,03:35:05, But before that i'll have competing.
+03:35:07,03:35:09," Yes, I said, it is not only."
+03:35:10,03:35:19, Not only just you know put in a data into the Python and then do the analysis as we usually do.
+03:35:20,03:35:34," And after that we'll get the clusters and whatever the yes, it is not like, but before that i'll have to understand you know, business and then the that given this column wise, what are the variables."
+03:35:35,03:35:36, So that is why.
+03:35:36,03:35:37, Because things.
+03:35:38,03:35:40, Do not every information.
+03:35:41,03:35:42, question.
+03:35:42,03:35:44," itself, there is something."
+03:35:45,03:35:47, Which is expected from your side on so.
+03:35:48,03:35:56, That person will have to do research try and understand that business scenario try and understand what those columns me.
+03:35:57,03:35:58, That planning.
+03:35:58,03:35:59, part is see.
+03:36:00,03:36:01,Every.
+03:36:02,03:36:14," Once you get the data doing in Python as one asked what what to do, why to do something that you have to research and dried find out so that part is missing."
+03:36:15,03:36:16,Okay.
+03:36:18,03:36:19, Apart from this.
+03:36:20,03:36:22, or two incidences fine yeah.
+03:36:30,03:36:33," No, no i'm losing you again, there is a."
+03:36:38,03:36:39, Can you hear me.
+03:36:40,03:36:43, I can hear you Hello yeah yeah.
+03:36:43,03:36:44, Now I can hear whether.
+03:36:47,03:36:48, There is a one column in.
+03:36:50,03:36:54," The date column, so how can I deal with this date column date."
+03:37:01,03:37:03, you're asking me the answer that.
+03:37:08,03:37:09, New research.
+03:37:13,03:37:14, yeah.
+03:37:15,03:37:15,OK.
+03:37:18,03:37:20," OK, I will okay very good."
+03:37:21,03:37:22, And then.
+03:37:25,03:37:28, Once the computer okay fine yeah.
+03:37:28,03:37:31," If you're if you're done research, and if you still start then."
+03:37:31,03:37:32, yeah I can help you but.
+03:37:32,03:37:33, without doing your part.
+03:37:34,03:37:34, I have.
+03:37:36,03:37:40, literally just gone through the columns and all that we.
+03:37:46,03:37:46, think you.
+03:37:48,03:37:50, should try it out.
+03:37:50,03:37:50, Let me.
+03:37:51,03:37:53, Then i'll get the next session.
+03:37:54,03:37:55, I think.
+03:37:57,03:38:01," It is the most important part, I think, because I met."
+03:38:04,03:38:05, My.
+03:38:06,03:38:12," First start tuning this but insulated material, I thought you know what i'm saying."
+03:38:18,03:38:20, Not but yeah practice you're going in the right way.
+03:38:22,03:38:23, Small.
+03:38:24,03:38:26, focus on that one partner.
+03:38:26,03:38:26, You should be able to.
+03:38:27,03:38:29, Clean clean these things.
+03:38:34,03:38:35, Okay okay that's good.
+03:38:43,03:38:48, Okay anyone else any other questions anyone stuck at any point.
+03:38:55,03:38:57, One thing one more.
+03:38:59,03:39:01, Time boundaries and to submit all the assignments.
+03:39:02,03:39:03," No, no there's no time."
+03:39:05,03:39:10," Because being a working person, it is you know, either because i'm you know."
+03:39:12,03:39:17, yeah I understand that's that's the reason we're saying no law deadlines.
+03:39:17,03:39:19, But the condition is.
+03:39:19,03:39:25," Unless until you finish your assignments and submit them, you will not be eligible for project."
+03:39:27,03:39:27, Oh.
+03:39:30,03:39:30, yeah.
+03:39:35,03:39:38," Okay, all right so we'll wind up and."
+03:39:39,03:39:40, I have one question can.
+03:39:47,03:39:55," I be burning the petition we go for it, there is no values to be go go for implementation or."
+03:39:55,03:40:00," If there are outliers in particular corner, so we should go for media implementation eight."
+03:40:01,03:40:03," Okay, yes yeah."
+03:40:03,03:40:15," So, so how how it is, first, we should like my question is, first, we should go for the implementation on first we should go for it out loud treatment, and then I."
+03:40:15,03:40:16, guess there is.
+03:40:16,03:40:17, There is no.
+03:40:19,03:40:26," Fixed procedure there Okay, you can try it out due to either of these things."
+03:40:27,03:40:29, see it again boils down to the question on.
+03:40:31,03:40:48," Why outlier what outlier why missing values that the variance right So if you if you look at those cases, you will be able to take a decision on saying that Okay, I have three the outlier first and then we probably will do the calculation of 11 calculation for invitation."
+03:40:50,03:40:55," it's a logical decision, and there is no standard rule that you have to do this faster than."
+03:40:57,03:40:59,OK OK OK.
+03:41:00,03:41:06," mostly by typing for speech and go for it go for the invitation hello, can you hear me."
+03:41:07,03:41:08, yeah I can hear you but.
+03:41:09,03:41:16, I don't know i'm not sure where you have redacted there's no standard like that okay so it's.
+03:41:16,03:41:18, it's like everything.
+03:41:20,03:41:21, isn't it is it.
+03:41:21,03:41:33," No it's the individual's choice, of course, which is getting influenced by the data and the business conditions okay good Thank you, Sir."
+03:41:45,03:41:48," Okay, then let's wind up and reconnect next week."
+03:41:50,03:41:51, Thank you everyone.
